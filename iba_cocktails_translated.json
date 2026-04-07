@@ -1,0 +1,3384 @@
+[
+    {
+        "category": "Contemporary Classics",
+        "name": "Bellini",
+        "method": "Pour peach puree into the mixing glass with ice, add the Prosecco wine. Stir gently and pour in a chilled flute glass.  Note: PUCCINI - Fresh Mandarin Orange Juice; ROSSINI - Fresh Strawberry Puree; TINTORETTO - Fresh Pomegranate Juice.",
+        "ingredients": [
+            {
+                "direction": "100 ml Prosecco",
+                "quantity": "100",
+                "unit": "ml",
+                "ingredient": "Prosecco",
+                "ingredient_ko": "프로세코"
+            },
+            {
+                "direction": "50 ml White Peach Puree",
+                "quantity": "50",
+                "unit": "ml",
+                "ingredient": "White Peach Puree",
+                "ingredient_ko": "백도 퓨레"
+            }
+        ],
+        "name_ko": "",
+        "method_ko": "얼음이 담긴 믹싱 글라스에 복숭아 퓌레를 붓고 프로세코 와인을 첨가합니다. 가볍게 저어준 후 식힌 플루트 잔에 부어주세요.  참고: PUCCINI - 신선한 만다린 오렌지 주스; ROSSINI - 신선한 딸기 퓨레; TINTORETTO - 신선한 석류 주스."
+    },
+    {
+        "category": "Contemporary Classics",
+        "name": "Black Russian",
+        "method": "Pour the ingredients into the old fashioned glass filled with ice cubes. Stir gently.  Note: WHITE RUSSIAN - Float fresh cream on the top and stir in slowly.",
+        "ingredients": [
+            {
+                "direction": "50 ml Vodka",
+                "quantity": "50",
+                "unit": "ml",
+                "ingredient": "Vodka",
+                "ingredient_ko": "보드카"
+            },
+            {
+                "direction": "20 ml Coffee Liqueur",
+                "quantity": "20",
+                "unit": "ml",
+                "ingredient": "Coffee Liqueur",
+                "ingredient_ko": "커피 리큐어"
+            }
+        ],
+        "name_ko": "",
+        "method_ko": "얼음을 채운 올드 패션 글라스에 재료를 붓습니다. 부드럽게 저어주세요.  참고: 화이트 러시안(WHITE RUSSIAN) - 생크림을 위에 올리고 천천히 저어줍니다."
+    },
+    {
+        "category": "Contemporary Classics",
+        "name": "Bloody Mary",
+        "method": "Stir gently all the ingredients in a mixing glass with ice, pour into rocks glass. Note: If requested served with ice, pour into highball glass.",
+        "garnish": "Celery, Lemon Wedge (Optional)",
+        "ingredients": [
+            {
+                "direction": "45 ml Vodka",
+                "quantity": "45",
+                "unit": "ml",
+                "ingredient": "Vodka",
+                "ingredient_ko": "보드카"
+            },
+            {
+                "direction": "90 ml Tomato Juice",
+                "quantity": "90",
+                "unit": "ml",
+                "ingredient": "Tomato Juice",
+                "ingredient_ko": "토마토 주스"
+            },
+            {
+                "direction": "15 ml Fresh Lemon Juice",
+                "quantity": "15",
+                "unit": "ml",
+                "ingredient": "Fresh Lemon Juice",
+                "ingredient_ko": "신선한 레몬 주스"
+            },
+            {
+                "direction": "2 dashes Worcestershire Sauce",
+                "quantity": "2",
+                "unit": "dash",
+                "ingredient": "Worcestershire Sauce",
+                "ingredient_ko": "우스터 소스"
+            },
+            {
+                "direction": "Tabasco",
+                "quantity": "1",
+                "unit": "dash",
+                "ingredient": "Tabasco",
+                "ingredient_ko": "타바스코"
+            },
+            {
+                "direction": "Celery Salt",
+                "quantity": "1",
+                "unit": "dash",
+                "ingredient": "Celery Salt",
+                "ingredient_ko": "셀러리 소금"
+            },
+            {
+                "direction": "Pepper (Up to taste)",
+                "quantity": "1",
+                "unit": "dash",
+                "ingredient": "Pepper",
+                "note": "Up to taste",
+                "ingredient_ko": "후추"
+            }
+        ],
+        "name_ko": "",
+        "method_ko": "믹싱 글라스에 모든 재료를 얼음과 함께 천천히 저은 후 락 글라스에 붓습니다. 참고: 얼음과 함께 제공되도록 요청하는 경우 하이볼 글라스에 붓습니다."
+    },
+    {
+        "category": "Contemporary Classics",
+        "name": "Caipirinha",
+        "method": "Place lime and sugar into a double old fashioned glass and muddle gently. Fill the glass with cracked ice and add Cachaça. Stir gently to involve ingredients. Note: CAIPIROSKA - Instead of Cachaça use Vodka;",
+        "ingredients": [
+            {
+                "direction": "60 ml Cachaça",
+                "quantity": "60",
+                "unit": "ml",
+                "ingredient": "Cachaça",
+                "ingredient_ko": "카샤사"
+            },
+            {
+                "direction": "1 Lime cut into small wedges",
+                "quantity": "1",
+                "unit": "piece",
+                "ingredient": "Lime cut into small wedges",
+                "ingredient_ko": "라임을 작은 조각으로 자른다"
+            },
+            {
+                "direction": "4 Teaspoons White Cane Sugar",
+                "quantity": "4",
+                "unit": "teaspoon",
+                "ingredient": "White Cane Sugar",
+                "ingredient_ko": "흰 지팡이 설탕"
+            }
+        ],
+        "name_ko": "",
+        "method_ko": "이중 구식 유리잔에 라임과 설탕을 넣고 가볍게 섞습니다. 잔에 깨진 얼음을 채우고 카샤사를 추가합니다. 재료가 들어가도록 가볍게 저어주세요. 참고: CAIPIROSKA - Cachaça 대신 보드카를 사용하세요."
+    },
+    {
+        "category": "Contemporary Classics",
+        "name": "Champagne Cocktail",
+        "method": "Place the sugar cube with 2 dashes of bitters in a large Champagne glass, add the cognac. Pour gently chilled Champagne.",
+        "garnish": "Garnish with orange zest and maraschino cherry.",
+        "ingredients": [
+            {
+                "direction": "90 ml Chilled Champagne",
+                "quantity": "90",
+                "unit": "ml",
+                "ingredient": "Chilled Champagne",
+                "ingredient_ko": "차가운 샴페인"
+            },
+            {
+                "direction": "10 ml Cognac",
+                "quantity": "10",
+                "unit": "ml",
+                "ingredient": "Cognac",
+                "ingredient_ko": "코냑"
+            },
+            {
+                "direction": "2 dashes Angostura bitters",
+                "quantity": "2",
+                "unit": "dash",
+                "ingredient": "Angostura bitters",
+                "ingredient_ko": "앙고스투라 비터스"
+            },
+            {
+                "direction": "Few drops of Grand Marnier (optional)",
+                "quantity": "few",
+                "unit": "drops",
+                "ingredient": "Grand Marnier",
+                "note": "optional",
+                "ingredient_ko": "그랑 마르니에"
+            },
+            {
+                "direction": "1 sugar cube",
+                "quantity": "1",
+                "unit": "piece",
+                "ingredient": "Sugar Cube",
+                "ingredient_ko": "각설탕"
+            }
+        ],
+        "name_ko": "",
+        "method_ko": "큰 샴페인 잔에 각설탕과 비터스 2대시를 넣고 코냑을 추가합니다. 살짝 식힌 샴페인을 부어주세요."
+    },
+    {
+        "category": "Contemporary Classics",
+        "name": "Corpse Reviver #2",
+        "method": "Pour all ingredients into shaker with ice. Shake well and strain in chilled cocktail glass.",
+        "garnish": "Garnish with orange zest",
+        "ingredients": [
+            {
+                "direction": "30 ml Gin",
+                "quantity": "30",
+                "unit": "ml",
+                "ingredient": "Gin",
+                "ingredient_ko": "진"
+            },
+            {
+                "direction": "30 ml Cointreau",
+                "quantity": "30",
+                "unit": "ml",
+                "ingredient": "Cointreau",
+                "ingredient_ko": "쿠앵트로"
+            },
+            {
+                "direction": "30 ml Lillet Blanc",
+                "quantity": "30",
+                "unit": "ml",
+                "ingredient": "Lillet Blanc",
+                "ingredient_ko": "릴레 블랑"
+            },
+            {
+                "direction": "30 ml Fresh Lemon Juice",
+                "quantity": "30",
+                "unit": "ml",
+                "ingredient": "Fresh Lemon Juice",
+                "ingredient_ko": "신선한 레몬 주스"
+            },
+            {
+                "direction": "1 dash Absinthe",
+                "quantity": "1",
+                "unit": "dash",
+                "ingredient": "Absinthe",
+                "ingredient_ko": "압생트"
+            }
+        ],
+        "name_ko": "",
+        "method_ko": "모든 재료를 얼음과 함께 셰이커에 붓습니다. 잘 흔들어 차가운 칵테일 잔에 걸러냅니다."
+    },
+    {
+        "category": "Contemporary Classics",
+        "name": "Cosmopolitan",
+        "method": "Add all ingredients into a cocktail shaker filled with ice. Shake well and strain into a large cocktail glass.",
+        "garnish": "Garnish with a lemon twist.",
+        "ingredients": [
+            {
+                "direction": "40 ml Vodka Citron",
+                "quantity": "40",
+                "unit": "ml",
+                "ingredient": "Vodka Citron",
+                "ingredient_ko": "보드카 유자"
+            },
+            {
+                "direction": "15 ml Cointreau",
+                "quantity": "15",
+                "unit": "ml",
+                "ingredient": "Cointreau",
+                "ingredient_ko": "쿠앵트로"
+            },
+            {
+                "direction": "15 ml Fresh Lime Juice",
+                "quantity": "15",
+                "unit": "ml",
+                "ingredient": "Fresh Lime Juice",
+                "ingredient_ko": "신선한 라임 주스"
+            },
+            {
+                "direction": "30 ml Cranberry Juice",
+                "quantity": "30",
+                "unit": "ml",
+                "ingredient": "Cranberry Juice",
+                "ingredient_ko": "크랜베리 주스"
+            }
+        ],
+        "name_ko": "",
+        "method_ko": "얼음을 채운 칵테일 셰이커에 모든 재료를 넣습니다. 잘 흔들어서 큰 칵테일 글라스에 따르세요."
+    },
+    {
+        "category": "Contemporary Classics",
+        "name": "Cuba Libre",
+        "method": "Build all ingredients in a highball glass filled with ice.",
+        "garnish": "Garnish with lime wedge.",
+        "ingredients": [
+            {
+                "direction": "50 ml White Rum",
+                "quantity": "50",
+                "unit": "ml",
+                "ingredient": "White Rum",
+                "ingredient_ko": "화이트 럼"
+            },
+            {
+                "direction": "120 ml Coca Cola",
+                "quantity": "120",
+                "unit": "ml",
+                "ingredient": "Coca Cola",
+                "ingredient_ko": "코카콜라"
+            },
+            {
+                "direction": "10 ml Fresh Lime Juice",
+                "quantity": "10",
+                "unit": "ml",
+                "ingredient": "Fresh Lime Juice",
+                "ingredient_ko": "신선한 라임 주스"
+            }
+        ],
+        "name_ko": "",
+        "method_ko": "얼음을 채운 하이볼 글라스에 모든 재료를 담아주세요."
+    },
+    {
+        "category": "Contemporary Classics",
+        "name": "French 75",
+        "method": "Pour all the ingredients, except Champagne, into a shaker. Shake well and strain into a Champagne flute. Top up with Champagne. Stir gently.",
+        "ingredients": [
+            {
+                "direction": "30 ml Gin",
+                "quantity": "30",
+                "unit": "ml",
+                "ingredient": "Gin",
+                "ingredient_ko": "진"
+            },
+            {
+                "direction": "15 ml Fresh Lemon Juice",
+                "quantity": "15",
+                "unit": "ml",
+                "ingredient": "Fresh Lemon Juice",
+                "ingredient_ko": "신선한 레몬 주스"
+            },
+            {
+                "direction": "15 ml Sugar Syrup",
+                "quantity": "15",
+                "unit": "ml",
+                "ingredient": "Sugar Syrup",
+                "ingredient_ko": "설탕시럽"
+            },
+            {
+                "direction": "60 ml Champagne",
+                "quantity": "60",
+                "unit": "ml",
+                "ingredient": "Champagne",
+                "ingredient_ko": "샴페인"
+            }
+        ],
+        "name_ko": "",
+        "method_ko": "샴페인을 제외한 모든 재료를 셰이커에 붓습니다. 잘 흔들어 샴페인 플루트에 걸러냅니다. 샴페인으로 마무리하세요. 부드럽게 저어주세요."
+    },
+    {
+        "category": "Contemporary Classics",
+        "name": "French Connection",
+        "method": "Pour all ingredients directly into an old fashioned glass filled with ice cubes. Stir gently.",
+        "ingredients": [
+            {
+                "direction": "35 ml Cognac",
+                "quantity": "35",
+                "unit": "ml",
+                "ingredient": "Cognac",
+                "ingredient_ko": "코냑"
+            },
+            {
+                "direction": "35 ml Amaretto",
+                "quantity": "35",
+                "unit": "ml",
+                "ingredient": "Amaretto",
+                "ingredient_ko": "아마레또"
+            }
+        ],
+        "name_ko": "",
+        "method_ko": "얼음을 채운 구식 유리잔에 모든 재료를 직접 붓습니다. 부드럽게 저어주세요."
+    },
+    {
+        "category": "Contemporary Classics",
+        "name": "Golden Dream",
+        "method": "Pour all ingredients into shaker filled with ice. Shake briskly for few seconds. Strain into chilled cocktail glass.",
+        "ingredients": [
+            {
+                "direction": "20 ml Galliano",
+                "quantity": "20",
+                "unit": "ml",
+                "ingredient": "Galliano",
+                "ingredient_ko": "갈리아노"
+            },
+            {
+                "direction": "20 ml Triple Sec",
+                "quantity": "20",
+                "unit": "ml",
+                "ingredient": "Triple Sec",
+                "ingredient_ko": "트리플 섹"
+            },
+            {
+                "direction": "20 ml Fresh Orange Juice",
+                "quantity": "20",
+                "unit": "ml",
+                "ingredient": "Fresh Orange Juice",
+                "ingredient_ko": "신선한 오렌지 주스"
+            },
+            {
+                "direction": "10 ml Fresh Cream",
+                "quantity": "10",
+                "unit": "ml",
+                "ingredient": "Fresh Cream",
+                "ingredient_ko": "생크림"
+            }
+        ],
+        "name_ko": "",
+        "method_ko": "얼음을 채운 셰이커에 모든 재료를 붓습니다. 몇 초 동안 세게 흔드십시오. 차가운 칵테일 글라스에 걸러냅니다."
+    },
+    {
+        "category": "Contemporary Classics",
+        "name": "Grasshopper",
+        "method": "Pour all ingredients into shaker filled with ice. Shake briskly for few seconds. Strain into chilled cocktail glass.",
+        "garnish": "N/A, optional mint leaf",
+        "ingredients": [
+            {
+                "direction": "20 ml Crème de Cacao (White)",
+                "quantity": "20",
+                "unit": "ml",
+                "ingredient": "Crème de Cacao",
+                "note": "White",
+                "ingredient_ko": "크렘 드 카카오"
+            },
+            {
+                "direction": "20 ml Crème de Menthe (Green)",
+                "quantity": "20",
+                "unit": "ml",
+                "ingredient": "Crème de Menthe",
+                "note": "Green",
+                "ingredient_ko": "크렘 드 망트"
+            },
+            {
+                "direction": "20 ml Fresh Cream",
+                "quantity": "20",
+                "unit": "ml",
+                "ingredient": "Fresh Cream",
+                "ingredient_ko": "생크림"
+            }
+        ],
+        "name_ko": "",
+        "method_ko": "얼음을 채운 셰이커에 모든 재료를 붓습니다. 몇 초 동안 세게 흔드십시오. 차가운 칵테일 글라스에 걸러냅니다."
+    },
+    {
+        "category": "Contemporary Classics",
+        "name": "Hemingway Special",
+        "method": "Pour all ingredients into a shaker with ice. Shake well and strain into a large cocktail glass.",
+        "ingredients": [
+            {
+                "direction": "60 ml Rum",
+                "quantity": "60",
+                "unit": "ml",
+                "ingredient": "Rum",
+                "ingredient_ko": "럼"
+            },
+            {
+                "direction": "40 ml Grapefruit Juice",
+                "quantity": "40",
+                "unit": "ml",
+                "ingredient": "Grapefruit Juice",
+                "ingredient_ko": "자몽 주스"
+            },
+            {
+                "direction": "15 ml Maraschino Luxardo",
+                "quantity": "15",
+                "unit": "ml",
+                "ingredient": "Maraschino Luxardo",
+                "ingredient_ko": "마라스키노 룩사르도"
+            },
+            {
+                "direction": "15 ml Fresh Lime",
+                "quantity": "15",
+                "unit": "ml",
+                "ingredient": "Fresh Lime",
+                "ingredient_ko": "신선한 라임"
+            }
+        ],
+        "name_ko": "",
+        "method_ko": "모든 재료를 얼음과 함께 셰이커에 붓습니다. 잘 흔들어서 큰 칵테일 글라스에 따르세요."
+    },
+    {
+        "category": "Contemporary Classics",
+        "name": "Horse's Neck",
+        "method": "Pour Cognac and ginger ale directly into a highball glass with ice cubes. Stir gently. If preferred, add dashes of Angostura Bitter.",
+        "garnish": "Garnish with a rind of one lemon spiral.",
+        "ingredients": [
+            {
+                "direction": "40 ml Cognac",
+                "quantity": "40",
+                "unit": "ml",
+                "ingredient": "Cognac",
+                "ingredient_ko": "코냑"
+            },
+            {
+                "direction": "120 ml Ginger Ale",
+                "quantity": "120",
+                "unit": "ml",
+                "ingredient": "Ginger Ale",
+                "ingredient_ko": "진저에일"
+            },
+            {
+                "direction": "Dash of Angostura Bitters (optional)",
+                "quantity": "1",
+                "unit": "dash",
+                "ingredient": "Angostura Bitters",
+                "note": "optional",
+                "ingredient_ko": "앙고스투라 비터스"
+            }
+        ],
+        "name_ko": "",
+        "method_ko": "꼬냑과 진저에일을 얼음이 담긴 하이볼 글라스에 직접 붓습니다. 부드럽게 저어주세요. 원한다면 앙고스투라 비터(Angostura Bitter) 대시를 추가하세요."
+    },
+    {
+        "category": "Contemporary Classics",
+        "name": "Irish Coffee",
+        "method": "Warm black coffee is poured into a pre-heated Irish coffee glass. Whiskey and at least one teaspoon of sugar is added and stirred until dissolved. Fresh thick chilled cream is carefully poured over the back of a spoon held just above the surface of the coffee. The layer of cream will float on the coffee without mixing. Plain sugar can be replaced with sugar syrup",
+        "ingredients": [
+            {
+                "direction": "50 ml Irish Whiskey",
+                "quantity": "50",
+                "unit": "ml",
+                "ingredient": "Irish Whiskey",
+                "ingredient_ko": "아이리쉬 위스키"
+            },
+            {
+                "direction": "120 ml Hot coffee",
+                "quantity": "120",
+                "unit": "ml",
+                "ingredient": "Hot coffee",
+                "ingredient_ko": "뜨거운 커피"
+            },
+            {
+                "direction": "50 ml Fresh cream (Chilled)",
+                "quantity": "50",
+                "unit": "ml",
+                "ingredient": "Fresh cream",
+                "note": "Chilled",
+                "ingredient_ko": "생크림"
+            },
+            {
+                "direction": "1 teaspoon Sugar",
+                "quantity": "1",
+                "unit": "teaspoon",
+                "ingredient": "Sugar",
+                "ingredient_ko": "설탕"
+            }
+        ],
+        "name_ko": "",
+        "method_ko": "예열된 아이리시 커피잔에 따뜻한 블랙 커피를 붓습니다. 위스키와 설탕 1티스푼 이상을 첨가하고 녹을 때까지 저어줍니다. 신선하고 걸쭉하게 차갑게 식힌 크림을 커피 표면 바로 위에 얹은 스푼 뒷면에 조심스럽게 붓습니다. 크림 층은 섞이지 않고 커피 위에 떠 있을 것입니다. 일반 설탕을 설탕시럽으로 대체 가능"
+    },
+    {
+        "category": "Contemporary Classics",
+        "name": "KIR",
+        "method": "Pour Crème de Cassis into glass, top up with white wine. Note: KIR ROYAL - Use Champagne instead of white wine",
+        "ingredients": [
+            {
+                "direction": "90 ml Dry White Wine",
+                "quantity": "90",
+                "unit": "ml",
+                "ingredient": "Dry White Wine",
+                "ingredient_ko": "드라이 화이트 와인"
+            },
+            {
+                "direction": "10 ml Crème de Cassis",
+                "quantity": "10",
+                "unit": "ml",
+                "ingredient": "Crème de Cassis",
+                "ingredient_ko": "크렘 드 카시스"
+            }
+        ],
+        "name_ko": "",
+        "method_ko": "크렘 드 카시스를 잔에 붓고 화이트 와인을 채워줍니다. 참고: KIR ROYAL - 화이트 와인 대신 샴페인을 사용하세요."
+    },
+    {
+        "category": "Contemporary Classics",
+        "name": "Long Island Ice Tea",
+        "method": "Add all ingredients into a highball glass filled with ice. Stir gently.",
+        "garnish": "Lemon Slice (Optional)",
+        "ingredients": [
+            {
+                "direction": "15 ml Vodka",
+                "quantity": "15",
+                "unit": "ml",
+                "ingredient": "Vodka",
+                "ingredient_ko": "보드카"
+            },
+            {
+                "direction": "15 ml Tequila",
+                "quantity": "15",
+                "unit": "ml",
+                "ingredient": "Tequila",
+                "ingredient_ko": "테킬라"
+            },
+            {
+                "direction": "15 ml White rum",
+                "quantity": "15",
+                "unit": "ml",
+                "ingredient": "White rum",
+                "ingredient_ko": "화이트 럼"
+            },
+            {
+                "direction": "15 ml Gin",
+                "quantity": "15",
+                "unit": "ml",
+                "ingredient": "Gin",
+                "ingredient_ko": "진"
+            },
+            {
+                "direction": "15 ml Cointreau",
+                "quantity": "15",
+                "unit": "ml",
+                "ingredient": "Cointreau",
+                "ingredient_ko": "쿠앵트로"
+            },
+            {
+                "direction": "30 ml Lemon juice",
+                "quantity": "30",
+                "unit": "ml",
+                "ingredient": "Lemon juice",
+                "ingredient_ko": "레몬 주스"
+            },
+            {
+                "direction": "20 ml Simple syrup",
+                "quantity": "20",
+                "unit": "ml",
+                "ingredient": "Simple syrup",
+                "ingredient_ko": "단순시럽"
+            },
+            {
+                "direction": "Top with Cola",
+                "quantity": "1",
+                "unit": "top up",
+                "ingredient": "Cola",
+                "ingredient_ko": "콜라"
+            }
+        ],
+        "name_ko": "",
+        "method_ko": "얼음을 채운 하이볼 글라스에 모든 재료를 넣습니다. 부드럽게 저어주세요."
+    },
+    {
+        "category": "Contemporary Classics",
+        "name": "Mai-Tai",
+        "method": "Add all ingredients into a shaker with ice. Shake and pour into a double rocks glass or a highball glass.  The Martinique molasses rum used by Trader Vic was not an Agricole rum but a type of “rummy” from molasses.",
+        "garnish": "Garnish with pineapple spear, mint leaves, and lime peel.",
+        "ingredients": [
+            {
+                "direction": "30 ml Amber Jamaican Rum",
+                "quantity": "30",
+                "unit": "ml",
+                "ingredient": "Amber Jamaican Rum",
+                "ingredient_ko": "앰버 자메이카 럼"
+            },
+            {
+                "direction": "30 ml Martinique Molasses Rhum",
+                "quantity": "30",
+                "unit": "ml",
+                "ingredient": "Martinique Molasses Rhum",
+                "ingredient_ko": "마르티니크 당밀 럼"
+            },
+            {
+                "direction": "15 ml Orange Curacao",
+                "quantity": "15",
+                "unit": "ml",
+                "ingredient": "Orange Curacao",
+                "ingredient_ko": "오렌지 큐라소"
+            },
+            {
+                "direction": "15 ml Orgeat Syrup (Almond)",
+                "quantity": "15",
+                "unit": "ml",
+                "ingredient": "Orgeat Syrup",
+                "note": "Almond",
+                "ingredient_ko": "오르제 시럽"
+            },
+            {
+                "direction": "30 ml Fresh Lime Juice",
+                "quantity": "30",
+                "unit": "ml",
+                "ingredient": "Fresh Lime Juice",
+                "ingredient_ko": "신선한 라임 주스"
+            },
+            {
+                "direction": "7.5 ml Simple Syrup",
+                "quantity": "7.5",
+                "unit": "ml",
+                "ingredient": "Simple Syrup",
+                "ingredient_ko": "슈가시럽"
+            }
+        ],
+        "name_ko": "",
+        "method_ko": "모든 재료를 얼음과 함께 셰이커에 넣습니다. 흔들어서 더블락 글라스나 하이볼 글라스에 부어주세요.  Trader Vic이 사용한 마르티니크 당밀 럼은 Agricole 럼이 아니라 당밀로 만든 일종의 \"러미\"였습니다."
+    },
+    {
+        "category": "Contemporary Classics",
+        "name": "Margarita",
+        "method": "Add all ingredients into a shaker with ice. Shake and strain into a chilled cocktail glass",
+        "garnish": "Half salt rim (Optional)",
+        "ingredients": [
+            {
+                "direction": "50 ml Tequila 100% Agave",
+                "quantity": "50",
+                "unit": "ml",
+                "ingredient": "Tequila 100% Agave",
+                "ingredient_ko": "데킬라 100% 아가베"
+            },
+            {
+                "direction": "20 ml Triple Sec",
+                "quantity": "20",
+                "unit": "ml",
+                "ingredient": "Triple Sec",
+                "ingredient_ko": "트리플 섹"
+            },
+            {
+                "direction": "15 ml Freshly Squeezed Lime Juice",
+                "quantity": "15",
+                "unit": "ml",
+                "ingredient": "Freshly Squeezed Lime Juice",
+                "ingredient_ko": "갓 짜낸 라임 주스"
+            }
+        ],
+        "name_ko": "",
+        "method_ko": "모든 재료를 얼음과 함께 셰이커에 넣습니다. 흔들어서 차가운 칵테일 글라스에 따른다"
+    },
+    {
+        "category": "Contemporary Classics",
+        "name": "Mimosa",
+        "method": "Pour orange juice into a flute glass and gently pour the sparkling wine. Stir gently. Note: Also known as Buck's Fizz.",
+        "garnish": "Garnish with an orange twist (optional).",
+        "ingredients": [
+            {
+                "direction": "75 ml Fresh orange juice",
+                "quantity": "75",
+                "unit": "ml",
+                "ingredient": "Fresh orange juice",
+                "ingredient_ko": "신선한 오렌지 주스"
+            },
+            {
+                "direction": "75 ml Prosecco",
+                "quantity": "75",
+                "unit": "ml",
+                "ingredient": "Prosecco",
+                "ingredient_ko": "프로세코"
+            }
+        ],
+        "name_ko": "",
+        "method_ko": "플루트 잔에 오렌지 주스를 붓고 스파클링 와인을 살짝 부어줍니다. 부드럽게 저어주세요. 참고: Buck's Fizz라고도 알려져 있습니다."
+    },
+    {
+        "category": "Contemporary Classics",
+        "name": "Mint Julep",
+        "method": "In Julep Stainless Steel Cup gently muddle the mint with sugar and water. Fill the glass with cracked ice, add the Bourbon and stir well until the cup frosts.",
+        "garnish": "Garnish with a mint sprig.",
+        "ingredients": [
+            {
+                "direction": "60 ml Bourbon Whiskey",
+                "quantity": "60",
+                "unit": "ml",
+                "ingredient": "Bourbon Whiskey",
+                "ingredient_ko": "버번 위스키"
+            },
+            {
+                "direction": "4 fresh Mint sprigs",
+                "quantity": "4",
+                "unit": "piece",
+                "ingredient": "fresh Mint sprigs",
+                "ingredient_ko": "신선한 민트 가지"
+            },
+            {
+                "direction": "1 tsp Powdered Sugar",
+                "quantity": "1",
+                "unit": "teaspoon",
+                "ingredient": "Powdered Sugar",
+                "ingredient_ko": "가루 설탕"
+            },
+            {
+                "direction": "2 tsp Water",
+                "quantity": "2",
+                "unit": "teaspoon",
+                "ingredient": "Water",
+                "ingredient_ko": "물"
+            }
+        ],
+        "name_ko": "",
+        "method_ko": "Julep 스테인리스 스틸 컵에 민트를 설탕과 물과 함께 부드럽게 섞습니다. 잔에 깨진 얼음을 채우고 버번 위스키를 추가한 후 컵이 얼 때까지 잘 저어줍니다."
+    },
+    {
+        "category": "Contemporary Classics",
+        "name": "Mojito",
+        "method": "Mix mint springs with sugar and lime juice. Add splash of soda water and fill the glass with ice. Pour the rum and top with soda water. Light stir to involve all ingredients.",
+        "garnish": "Garnish with sprigs of mint and slice of lime.",
+        "ingredients": [
+            {
+                "direction": "45 ml White Cuban Ron",
+                "quantity": "45",
+                "unit": "ml",
+                "ingredient": "White Cuban Ron",
+                "ingredient_ko": "화이트 쿠바 론"
+            },
+            {
+                "direction": "20 ml Fresh Lime Juice",
+                "quantity": "20",
+                "unit": "ml",
+                "ingredient": "Fresh Lime Juice",
+                "ingredient_ko": "신선한 라임 주스"
+            },
+            {
+                "direction": "6 pcs Mint Sprigs",
+                "quantity": "6",
+                "unit": "piece",
+                "ingredient": "Mint Sprigs",
+                "ingredient_ko": "민트 가지"
+            },
+            {
+                "direction": "2 tsp White Cane Sugar",
+                "quantity": "2",
+                "unit": "teaspoon",
+                "ingredient": "White Cane Sugar",
+                "ingredient_ko": "흰 지팡이 설탕"
+            },
+            {
+                "direction": "Soda Water",
+                "quantity": "1",
+                "unit": "top up",
+                "ingredient": "Soda Water",
+                "ingredient_ko": "소다수"
+            }
+        ],
+        "name_ko": "",
+        "method_ko": "민트 스프링에 설탕, 라임 주스를 섞으세요. 소다수를 추가하고 잔에 얼음을 채웁니다. 럼과 그 위에 소다수를 붓습니다. 모든 재료가 들어가도록 가볍게 저어줍니다."
+    },
+    {
+        "category": "Contemporary Classics",
+        "name": "Moscow Mule",
+        "method": "In a Mule Cup or rocks glass, combine the vodka and ginger beer. Add lime juice and gently stir to involve all ingredients.",
+        "garnish": "Garnish with a lime slice",
+        "ingredients": [
+            {
+                "direction": "45 ml Smirnoff Vodka",
+                "quantity": "45",
+                "unit": "ml",
+                "ingredient": "Smirnoff Vodka",
+                "ingredient_ko": "스미노프 보드카"
+            },
+            {
+                "direction": "120 ml Ginger Beer",
+                "quantity": "120",
+                "unit": "ml",
+                "ingredient": "Ginger Beer",
+                "ingredient_ko": "진저비어"
+            },
+            {
+                "direction": "10 ml Fresh lime juice",
+                "quantity": "10",
+                "unit": "ml",
+                "ingredient": "Fresh lime juice",
+                "ingredient_ko": "신선한 라임 주스"
+            }
+        ],
+        "name_ko": "",
+        "method_ko": "뮬컵이나 락글라스에 보드카와 진저비어를 섞습니다. 라임즙을 넣고 모든 재료가 잘 섞이도록 가볍게 저어줍니다."
+    },
+    {
+        "category": "Contemporary Classics",
+        "name": "Pina Colada",
+        "method": "Blend all the ingredients with ice in an electric blender, pour into a large glass, and serve with straws.  Note: Historically a few drops of fresh lime juice were added to taste. 4 slices of fresh pineapple can be used instead of juice",
+        "garnish": "Garnish with a slice of pineapple with a cocktail cherry.",
+        "ingredients": [
+            {
+                "direction": "50 ml White Rum",
+                "quantity": "50",
+                "unit": "ml",
+                "ingredient": "White Rum",
+                "ingredient_ko": "화이트 럼"
+            },
+            {
+                "direction": "30 ml Coconut Cream",
+                "quantity": "30",
+                "unit": "ml",
+                "ingredient": "Coconut Cream",
+                "ingredient_ko": "코코넛 크림"
+            },
+            {
+                "direction": "50 ml Fresh Pineapple Juice",
+                "quantity": "50",
+                "unit": "ml",
+                "ingredient": "Fresh Pineapple Juice",
+                "ingredient_ko": "신선한 파인애플 주스"
+            }
+        ],
+        "name_ko": "",
+        "method_ko": "모든 재료를 얼음과 함께 전기 믹서기에 넣고 큰 잔에 붓고 빨대와 함께 제공합니다.  참고: 역사적으로 맛을 내기 위해 신선한 라임 주스 몇 방울을 첨가했습니다. 주스 대신 신선한 파인애플 4조각을 사용해도 됩니다."
+    },
+    {
+        "category": "Contemporary Classics",
+        "name": "Pisco Sour",
+        "method": "Add all ingredients into a shaker with ice. Shake and strain into a chilled goblet glass.",
+        "garnish": "Few dashes of Amargo bitters on top as an aromatic garnish.",
+        "ingredients": [
+            {
+                "direction": "60 ml Pisco",
+                "quantity": "60",
+                "unit": "ml",
+                "ingredient": "Pisco",
+                "ingredient_ko": "피스코"
+            },
+            {
+                "direction": "30 ml Fresh Lemon Juice",
+                "quantity": "30",
+                "unit": "ml",
+                "ingredient": "Fresh Lemon Juice",
+                "ingredient_ko": "신선한 레몬 주스"
+            },
+            {
+                "direction": "20 ml Simple Syrup",
+                "quantity": "20",
+                "unit": "ml",
+                "ingredient": "Simple Syrup",
+                "ingredient_ko": "슈가시럽"
+            },
+            {
+                "direction": "1 Raw Egg White",
+                "quantity": "1",
+                "unit": "piece",
+                "ingredient": "Raw Egg White",
+                "ingredient_ko": "날계란 흰자"
+            }
+        ],
+        "name_ko": "",
+        "method_ko": "모든 재료를 얼음과 함께 셰이커에 넣습니다. 흔들어서 차가운 잔에 걸러냅니다."
+    },
+    {
+        "category": "Contemporary Classics",
+        "name": "Sea Breeze",
+        "method": "Build all ingredients in a highball glass filled with ice.",
+        "garnish": "Garnish with orange zest and cherry",
+        "ingredients": [
+            {
+                "direction": "40 ml Vodka",
+                "quantity": "40",
+                "unit": "ml",
+                "ingredient": "Vodka",
+                "ingredient_ko": "보드카"
+            },
+            {
+                "direction": "120 ml Cranberry Juice",
+                "quantity": "120",
+                "unit": "ml",
+                "ingredient": "Cranberry Juice",
+                "ingredient_ko": "크랜베리 주스"
+            },
+            {
+                "direction": "30 ml Grapefruit Juice",
+                "quantity": "30",
+                "unit": "ml",
+                "ingredient": "Grapefruit Juice",
+                "ingredient_ko": "자몽 주스"
+            }
+        ],
+        "name_ko": "",
+        "method_ko": "얼음을 채운 하이볼 글라스에 모든 재료를 담아주세요."
+    },
+    {
+        "category": "Contemporary Classics",
+        "name": "Sex on the Beach",
+        "method": "Build all ingredients in a highball glass filled with ice.",
+        "garnish": "Garnish with a half orange slice.",
+        "ingredients": [
+            {
+                "direction": "40 ml Vodka",
+                "quantity": "40",
+                "unit": "ml",
+                "ingredient": "Vodka",
+                "ingredient_ko": "보드카"
+            },
+            {
+                "direction": "20 ml Peach Schnapps",
+                "quantity": "20",
+                "unit": "ml",
+                "ingredient": "Peach Schnapps",
+                "ingredient_ko": "복숭아 슈납스"
+            },
+            {
+                "direction": "40 ml Fresh Orange Juice",
+                "quantity": "40",
+                "unit": "ml",
+                "ingredient": "Fresh Orange Juice",
+                "ingredient_ko": "신선한 오렌지 주스"
+            },
+            {
+                "direction": "40 ml Cranberry Juice",
+                "quantity": "40",
+                "unit": "ml",
+                "ingredient": "Cranberry Juice",
+                "ingredient_ko": "크랜베리 주스"
+            }
+        ],
+        "name_ko": "",
+        "method_ko": "얼음을 채운 하이볼 글라스에 모든 재료를 담아주세요."
+    },
+    {
+        "category": "Contemporary Classics",
+        "name": "Singapore Sling",
+        "method": "Pour all ingredients into a cocktail shaker filled with ice cubes. Shake well. Strain into Hurricane glass.",
+        "garnish": "Garnish with pineapple and maraschino cherry",
+        "ingredients": [
+            {
+                "direction": "30 ml Gin",
+                "quantity": "30",
+                "unit": "ml",
+                "ingredient": "Gin",
+                "ingredient_ko": "진"
+            },
+            {
+                "direction": "15 ml Cherry liqueur",
+                "quantity": "15",
+                "unit": "ml",
+                "ingredient": "Cherry liqueur",
+                "ingredient_ko": "체리 리큐어"
+            },
+            {
+                "direction": "7.5 ml Cointreau",
+                "quantity": "7.5",
+                "unit": "ml",
+                "ingredient": "Cointreau",
+                "ingredient_ko": "쿠앵트로"
+            },
+            {
+                "direction": "7.5 ml DOM Bénédictine",
+                "quantity": "7.5",
+                "unit": "ml",
+                "ingredient": "DOM Bénédictine",
+                "ingredient_ko": "돔 베네딕틴"
+            },
+            {
+                "direction": "120 ml Fresh Pineapple Juice",
+                "quantity": "120",
+                "unit": "ml",
+                "ingredient": "Fresh Pineapple Juice",
+                "ingredient_ko": "신선한 파인애플 주스"
+            },
+            {
+                "direction": "15 ml Fresh Lime Juice",
+                "quantity": "15",
+                "unit": "ml",
+                "ingredient": "Fresh Lime Juice",
+                "ingredient_ko": "신선한 라임 주스"
+            },
+            {
+                "direction": "10 ml Grenadine Syrup",
+                "quantity": "10",
+                "unit": "ml",
+                "ingredient": "Grenadine Syrup",
+                "ingredient_ko": "석류 시럽"
+            },
+            {
+                "direction": "A dash of Angostura bitters",
+                "quantity": "1",
+                "unit": "dash",
+                "ingredient": "Angostura bitters",
+                "ingredient_ko": "앙고스투라 비터스"
+            }
+        ],
+        "name_ko": "",
+        "method_ko": "얼음을 채운 칵테일 셰이커에 모든 재료를 붓습니다. 잘 흔들어주세요. 허리케인 유리에 걸러냅니다."
+    },
+    {
+        "category": "Contemporary Classics",
+        "name": "Tequila Sunrise",
+        "method": "Pour tequila and orange juice directly into highball glass filled with ice cubes. Add the grenadine syrup to create chromatic effect (sunrise), do not stir.",
+        "garnish": "Garnish with half orange slice or an orange zest",
+        "ingredients": [
+            {
+                "direction": "45 ml Tequila",
+                "quantity": "45",
+                "unit": "ml",
+                "ingredient": "Tequila",
+                "ingredient_ko": "테킬라"
+            },
+            {
+                "direction": "90 ml Fresh Orange Juice",
+                "quantity": "90",
+                "unit": "ml",
+                "ingredient": "Fresh Orange Juice",
+                "ingredient_ko": "신선한 오렌지 주스"
+            },
+            {
+                "direction": "15 ml Grenadine Syrup",
+                "quantity": "15",
+                "unit": "ml",
+                "ingredient": "Grenadine Syrup",
+                "ingredient_ko": "석류 시럽"
+            }
+        ],
+        "name_ko": "",
+        "method_ko": "얼음을 채운 하이볼 글라스에 데킬라와 오렌지 주스를 직접 붓습니다. 색채 효과(일출)를 만들기 위해 그레나딘 시럽을 추가하세요. 젓지 마세요."
+    },
+    {
+        "category": "Contemporary Classics",
+        "name": "Vesper",
+        "method": "Pour all ingredients into a cocktail shaker filled with ice cubes. Shake and strain into a chilled cocktail glass.",
+        "garnish": "Lemon zest",
+        "ingredients": [
+            {
+                "direction": "45 ml Gin",
+                "quantity": "45",
+                "unit": "ml",
+                "ingredient": "Gin",
+                "ingredient_ko": "진"
+            },
+            {
+                "direction": "15 ml Vodka",
+                "quantity": "15",
+                "unit": "ml",
+                "ingredient": "Vodka",
+                "ingredient_ko": "보드카"
+            },
+            {
+                "direction": "7.5 ml Lillet Blanc",
+                "quantity": "7.5",
+                "unit": "ml",
+                "ingredient": "Lillet Blanc",
+                "ingredient_ko": "릴레 블랑"
+            }
+        ],
+        "name_ko": "",
+        "method_ko": "얼음을 채운 칵테일 셰이커에 모든 재료를 붓습니다. 흔들어서 차가운 칵테일 글라스에 따르세요."
+    },
+    {
+        "category": "Contemporary Classics",
+        "name": "Zombie",
+        "method": "Add all ingredients into an electric blender with 170 grams of cracked ice. With pulse bottom blend for a few seconds. Serve in a tall tumbler glass.  Note: Donn's Mix: 2 parts of fresh yellow grapefruit and 1 part of cinnamon syrup",
+        "garnish": "Garnish with mint leaves.",
+        "ingredients": [
+            {
+                "direction": "45 ml Jamaican dark rum",
+                "quantity": "45",
+                "unit": "ml",
+                "ingredient": "Jamaican dark rum",
+                "ingredient_ko": "자메이카 다크 럼"
+            },
+            {
+                "direction": "45 ml Gold Puerto Rican rum",
+                "quantity": "45",
+                "unit": "ml",
+                "ingredient": "Gold Puerto Rican rum",
+                "ingredient_ko": "골드 푸에르토리코 럼"
+            },
+            {
+                "direction": "30 ml Demerara Rum",
+                "quantity": "30",
+                "unit": "ml",
+                "ingredient": "Demerara Rum",
+                "ingredient_ko": "데메라라 럼"
+            },
+            {
+                "direction": "20 ml Fresh lime juice",
+                "quantity": "20",
+                "unit": "ml",
+                "ingredient": "Fresh lime juice",
+                "ingredient_ko": "신선한 라임 주스"
+            },
+            {
+                "direction": "15 ml Falernum",
+                "quantity": "15",
+                "unit": "ml",
+                "ingredient": "Falernum",
+                "ingredient_ko": "팔레르눔"
+            },
+            {
+                "direction": "15 ml Donn's Mix",
+                "quantity": "15",
+                "unit": "ml",
+                "ingredient": "Donn's Mix",
+                "ingredient_ko": "돈스 믹스"
+            },
+            {
+                "direction": "1 tsp Grenadine syrup",
+                "quantity": "1",
+                "unit": "teaspoon",
+                "ingredient": "Grenadine syrup",
+                "ingredient_ko": "그레나딘 시럽"
+            },
+            {
+                "direction": "1 dash Angostura bitters",
+                "quantity": "1",
+                "unit": "dash",
+                "ingredient": "Angostura bitters",
+                "ingredient_ko": "앙고스투라 비터스"
+            },
+            {
+                "direction": "6 drops Pernod",
+                "quantity": "6",
+                "unit": "drops",
+                "ingredient": "Pernod",
+                "ingredient_ko": "페르노"
+            }
+        ],
+        "name_ko": "",
+        "method_ko": "모든 재료를 깨진 얼음 170g과 함께 전기 믹서기에 넣습니다. 몇 초 동안 펄스 바닥 블렌드를 사용합니다. 긴 텀블러 잔에 담아주세요.  참고: Donn's Mix: 신선한 노란색 자몽 2부분과 계피 시럽 1부분"
+    },
+    {
+        "category": "New Era Drinks",
+        "name": "Barracuda",
+        "method": "Pour all ingredients into cocktail shaker except the Prosecco, shake well with ice, strain into chilled highball glass filled with ice and top up with Prosecco.",
+        "garnish": "Pineapple and Cherry, optional mint sprig for additional aroma.",
+        "ingredients": [
+            {
+                "direction": "45 ml Gold Rum",
+                "quantity": "45",
+                "unit": "ml",
+                "ingredient": "Gold Rum",
+                "ingredient_ko": "골드 럼"
+            },
+            {
+                "direction": "15 ml Galliano",
+                "quantity": "15",
+                "unit": "ml",
+                "ingredient": "Galliano",
+                "ingredient_ko": "갈리아노"
+            },
+            {
+                "direction": "60 ml Fresh Pineapple Juice",
+                "quantity": "60",
+                "unit": "ml",
+                "ingredient": "Fresh Pineapple Juice",
+                "ingredient_ko": "신선한 파인애플 주스"
+            },
+            {
+                "direction": "1 dash Fresh Lime Juice",
+                "quantity": "1",
+                "unit": "dash",
+                "ingredient": "Fresh Lime Juice",
+                "ingredient_ko": "신선한 라임 주스"
+            },
+            {
+                "direction": "Top up with Prosecco",
+                "quantity": "1",
+                "unit": "top up",
+                "ingredient": "Prosecco",
+                "ingredient_ko": "프로세코"
+            }
+        ],
+        "name_ko": "",
+        "method_ko": "프로세코를 제외한 모든 재료를 칵테일 셰이커에 붓고 얼음과 함께 잘 흔든 후, 얼음을 채운 차가운 하이볼 글라스에 걸러내고 프로세코를 채워줍니다."
+    },
+    {
+        "category": "New Era Drinks",
+        "name": "Bee's Knees",
+        "method": "Stir honey with lemon and orange juices until it dissolves, add gin and shake with ice. Strain into a chilled cocktail glass.",
+        "garnish": "Optionally garnish with a lemon or orange zest.",
+        "ingredients": [
+            {
+                "direction": "52.5 ml Dry Gin",
+                "quantity": "52.5",
+                "unit": "ml",
+                "ingredient": "Dry Gin",
+                "ingredient_ko": "드라이 진"
+            },
+            {
+                "direction": "2 teaspoons Honey Syrup",
+                "quantity": "2",
+                "unit": "teaspoon",
+                "ingredient": "Honey Syrup",
+                "ingredient_ko": "허니시럽"
+            },
+            {
+                "direction": "22.5 ml Fresh Lemon Juice",
+                "quantity": "22.5",
+                "unit": "ml",
+                "ingredient": "Fresh Lemon Juice",
+                "ingredient_ko": "신선한 레몬 주스"
+            },
+            {
+                "direction": "22.5 ml Fresh Orange Juice",
+                "quantity": "22.5",
+                "unit": "ml",
+                "ingredient": "Fresh Orange Juice",
+                "ingredient_ko": "신선한 오렌지 주스"
+            }
+        ],
+        "name_ko": "",
+        "method_ko": "꿀과 레몬, 오렌지 주스를 녹일 때까지 저어준 후 진을 넣고 얼음과 함께 흔듭니다. 차가운 칵테일 글라스에 따라줍니다."
+    },
+    {
+        "category": "New Era Drinks",
+        "name": "Bramble",
+        "method": "Pour all ingredients into a cocktail shaker except the Crème de Mûre, shake well with ice, strain into chilled old fashioned glass filled with crushed ice, then pour the blackberry liqueur (Crème de Mûre) over the top of the drink, in a circular motion.",
+        "garnish": "Garnish optionally with a lemon slice and blackberries.",
+        "ingredients": [
+            {
+                "direction": "50 ml Gin",
+                "quantity": "50",
+                "unit": "ml",
+                "ingredient": "Gin",
+                "ingredient_ko": "진"
+            },
+            {
+                "direction": "25 ml Fresh Lemon Juice",
+                "quantity": "25",
+                "unit": "ml",
+                "ingredient": "Fresh Lemon Juice",
+                "ingredient_ko": "신선한 레몬 주스"
+            },
+            {
+                "direction": "12.5 ml Sugar Syrup",
+                "quantity": "12.5",
+                "unit": "ml",
+                "ingredient": "Sugar Syrup",
+                "ingredient_ko": "설탕시럽"
+            },
+            {
+                "direction": "15 ml Crème de Mûre",
+                "quantity": "15",
+                "unit": "ml",
+                "ingredient": "Crème de Mûre",
+                "ingredient_ko": "크렘 드 뮈르"
+            }
+        ],
+        "name_ko": "",
+        "method_ko": "Crème de Mûre를 제외한 모든 재료를 칵테일 셰이커에 붓고 얼음과 함께 잘 흔든 다음 으깬 얼음을 채운 차가운 구식 잔에 걸러낸 다음 블랙베리 리큐어(Crème de Mûre)를 음료 위에 원을 그리듯 붓습니다."
+    },
+    {
+        "category": "New Era Drinks",
+        "name": "Canchanchara",
+        "method": "Mix honey with water and lime juice and spread the mixture on the bottom and sides of the glass. Add cracked ice, and then the rum. End by energetically stirring from bottom to top.",
+        "garnish": "Lime wedge.",
+        "ingredients": [
+            {
+                "direction": "60 ml Cuban Aguardiente",
+                "quantity": "60",
+                "unit": "ml",
+                "ingredient": "Cuban Aguardiente",
+                "ingredient_ko": "쿠바 아구아르디엔테"
+            },
+            {
+                "direction": "15 ml Fresh Lime Juice",
+                "quantity": "15",
+                "unit": "ml",
+                "ingredient": "Fresh Lime Juice",
+                "ingredient_ko": "신선한 라임 주스"
+            },
+            {
+                "direction": "15 ml Raw Honey",
+                "quantity": "15",
+                "unit": "ml",
+                "ingredient": "Raw Honey",
+                "ingredient_ko": "생꿀"
+            },
+            {
+                "direction": "50 ml Water",
+                "quantity": "50",
+                "unit": "ml",
+                "ingredient": "Water",
+                "ingredient_ko": "물"
+            }
+        ],
+        "name_ko": "",
+        "method_ko": "꿀과 물, 라임즙을 섞어 잔 바닥과 옆면에 펴 바릅니다. 깨진 얼음을 넣고 럼주를 넣으세요. 아래에서 위로 힘차게 저어주며 마무리합니다."
+    },
+    {
+        "category": "New Era Drinks",
+        "name": "Dark ‘n' stormy",
+        "method": "In a highball glass filled with ice pour the ginger beer and top floating with the Rum.",
+        "garnish": "Garnish with a lime wedge or slice.",
+        "ingredients": [
+            {
+                "direction": "60 ml Goslings Rum",
+                "quantity": "60",
+                "unit": "ml",
+                "ingredient": "Goslings Rum",
+                "ingredient_ko": "고슬링스 럼"
+            },
+            {
+                "direction": "100 ml Ginger Beer",
+                "quantity": "100",
+                "unit": "ml",
+                "ingredient": "Ginger Beer",
+                "ingredient_ko": "진저비어"
+            }
+        ],
+        "name_ko": "",
+        "method_ko": "얼음을 채운 하이볼 글라스에 진저비어를 붓고 럼을 띄워주세요."
+    },
+    {
+        "category": "New Era Drinks",
+        "name": "Espresso Martini",
+        "method": "Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
+        "ingredients": [
+            {
+                "direction": "50 ml Vodka",
+                "quantity": "50",
+                "unit": "ml",
+                "ingredient": "Vodka",
+                "ingredient_ko": "보드카"
+            },
+            {
+                "direction": "30 ml Kahlúa",
+                "quantity": "30",
+                "unit": "ml",
+                "ingredient": "Kahlúa",
+                "ingredient_ko": "칼루아"
+            },
+            {
+                "direction": "10 ml Sugar Syrup",
+                "quantity": "10",
+                "unit": "ml",
+                "ingredient": "Sugar Syrup",
+                "ingredient_ko": "설탕시럽"
+            },
+            {
+                "direction": "1 strong Espresso",
+                "quantity": "1",
+                "unit": "shot",
+                "ingredient": "strong Espresso",
+                "ingredient_ko": "진한 에스프레소"
+            }
+        ],
+        "name_ko": "",
+        "method_ko": "모든 재료를 칵테일 셰이커에 붓고 얼음과 함께 잘 흔든 후 차가운 칵테일 잔에 따라냅니다."
+    },
+    {
+        "category": "New Era Drinks",
+        "name": "Fernandito",
+        "method": "Pour the Fernet Branca into a double old fashioned glass with ice, fill the glass up with Cola. Gently stir.",
+        "ingredients": [
+            {
+                "direction": "50 ml Fernet Branca",
+                "quantity": "50",
+                "unit": "ml",
+                "ingredient": "Fernet Branca",
+                "ingredient_ko": "페르넷 브랑카"
+            },
+            {
+                "direction": "Fill up with Cola",
+                "quantity": "1",
+                "unit": "fill up",
+                "ingredient": "Cola",
+                "ingredient_ko": "콜라"
+            }
+        ],
+        "name_ko": "",
+        "method_ko": "페르네 브랑카(Fernet Branca)를 얼음이 담긴 이중 구식 유리잔에 붓고 유리잔에 콜라를 채웁니다. 부드럽게 저어주세요."
+    },
+    {
+        "category": "New Era Drinks",
+        "name": "French Martini",
+        "method": "Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
+        "garnish": "Squeeze oil from lemon peel onto the drink.",
+        "ingredients": [
+            {
+                "direction": "45 ml Vodka",
+                "quantity": "45",
+                "unit": "ml",
+                "ingredient": "Vodka",
+                "ingredient_ko": "보드카"
+            },
+            {
+                "direction": "15 ml Raspberry Liqueur",
+                "quantity": "15",
+                "unit": "ml",
+                "ingredient": "Raspberry Liqueur",
+                "ingredient_ko": "라즈베리 리큐어"
+            },
+            {
+                "direction": "15 ml Fresh Pineapple Juice",
+                "quantity": "15",
+                "unit": "ml",
+                "ingredient": "Fresh Pineapple Juice",
+                "ingredient_ko": "신선한 파인애플 주스"
+            }
+        ],
+        "name_ko": "",
+        "method_ko": "모든 재료를 칵테일 셰이커에 붓고 얼음과 함께 잘 흔든 후 차가운 칵테일 글라스에 따라냅니다."
+    },
+    {
+        "category": "New Era Drinks",
+        "name": "Illegal",
+        "method": "Pour all ingredients into the shaker. Shake vigorously with ice. Strain into a chilled cocktail glass, or “on the rocks” in a traditional clay or terracotta mug.",
+        "ingredients": [
+            {
+                "direction": "30 ml Espadin Mezcal",
+                "quantity": "30",
+                "unit": "ml",
+                "ingredient": "Espadin Mezcal",
+                "ingredient_ko": "에스파딘 메즈칼"
+            },
+            {
+                "direction": "15 ml Jamaica Overproof White Rum",
+                "quantity": "15",
+                "unit": "ml",
+                "ingredient": "Jamaica Overproof White Rum",
+                "ingredient_ko": "자메이카 오버프루프 화이트 럼"
+            },
+            {
+                "direction": "15 ml Falernum",
+                "quantity": "15",
+                "unit": "ml",
+                "ingredient": "Falernum",
+                "ingredient_ko": "팔레르넘"
+            },
+            {
+                "direction": "1 Bar Spoon Maraschino Luxardo",
+                "quantity": "1",
+                "unit": "bar spoon",
+                "ingredient": "Maraschino Luxardo",
+                "ingredient_ko": "마라스키노 룩사르도"
+            },
+            {
+                "direction": "22.5 ml Fresh Lime Juice",
+                "quantity": "22.5",
+                "unit": "ml",
+                "ingredient": "Fresh Lime Juice",
+                "ingredient_ko": "신선한 라임 주스"
+            },
+            {
+                "direction": "15 ml Simple Syrup",
+                "quantity": "15",
+                "unit": "ml",
+                "ingredient": "Simple Syrup",
+                "ingredient_ko": "슈가시럽"
+            },
+            {
+                "direction": "Few Drops of Egg White (Optional)",
+                "quantity": "few",
+                "unit": "drops",
+                "ingredient": "Egg White",
+                "note": "Optional",
+                "ingredient_ko": "달걀 흰자"
+            }
+        ],
+        "name_ko": "",
+        "method_ko": "모든 재료를 셰이커에 붓습니다. 얼음을 넣고 세게 흔드세요. 차가운 칵테일 잔에 따르거나 전통적인 점토 또는 테라코타 머그잔에 \"온더락\"으로 걸러냅니다."
+    },
+    {
+        "category": "New Era Drinks",
+        "name": "Lemon drop Martini",
+        "method": "Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
+        "garnish": "Garnish with sugar rim around the glass.",
+        "ingredients": [
+            {
+                "direction": "30 ml Vodka Citron",
+                "quantity": "30",
+                "unit": "ml",
+                "ingredient": "Vodka Citron",
+                "ingredient_ko": "보드카 유자"
+            },
+            {
+                "direction": "20 ml Triple Sec",
+                "quantity": "20",
+                "unit": "ml",
+                "ingredient": "Triple Sec",
+                "ingredient_ko": "트리플 섹"
+            },
+            {
+                "direction": "15 ml Fresh Lemon Juice",
+                "quantity": "15",
+                "unit": "ml",
+                "ingredient": "Fresh Lemon Juice",
+                "ingredient_ko": "신선한 레몬 주스"
+            }
+        ],
+        "name_ko": "",
+        "method_ko": "모든 재료를 칵테일 셰이커에 붓고 얼음과 함께 잘 흔든 후 차가운 칵테일 잔에 따라냅니다."
+    },
+    {
+        "category": "New Era Drinks",
+        "name": "Naked and Famous",
+        "method": "Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
+        "ingredients": [
+            {
+                "direction": "22.5 ml Mezcal",
+                "quantity": "22.5",
+                "unit": "ml",
+                "ingredient": "Mezcal",
+                "ingredient_ko": "메스칼"
+            },
+            {
+                "direction": "22.5 ml Yellow Chartreuse",
+                "quantity": "22.5",
+                "unit": "ml",
+                "ingredient": "Yellow Chartreuse",
+                "ingredient_ko": "노란색 샤르트뢰즈"
+            },
+            {
+                "direction": "22.5 ml Aperol",
+                "quantity": "22.5",
+                "unit": "ml",
+                "ingredient": "Aperol",
+                "ingredient_ko": "아페롤"
+            },
+            {
+                "direction": "22.5 ml Fresh Lime Juice",
+                "quantity": "22.5",
+                "unit": "ml",
+                "ingredient": "Fresh Lime Juice",
+                "ingredient_ko": "신선한 라임 주스"
+            }
+        ],
+        "name_ko": "",
+        "method_ko": "모든 재료를 칵테일 셰이커에 붓고 얼음과 함께 잘 흔든 후 차가운 칵테일 잔에 따라냅니다."
+    },
+    {
+        "category": "New Era Drinks",
+        "name": "New York Sour",
+        "method": "Pour all ingredients into the shaker. Shake vigorously with ice. Strain into a chilled rocks glass filled with ice. Float the wine on top.",
+        "garnish": "Garnish with lemon or orange zest with cherry.",
+        "ingredients": [
+            {
+                "direction": "60 ml Rye Whiskey or Bourbon",
+                "quantity": "60",
+                "unit": "ml",
+                "ingredient": "Rye Whiskey or Bourbon",
+                "ingredient_ko": "라이 위스키 또는 버번"
+            },
+            {
+                "direction": "22.5 ml Simple syrup",
+                "quantity": "22.5",
+                "unit": "ml",
+                "ingredient": "Simple syrup",
+                "ingredient_ko": "단순시럽"
+            },
+            {
+                "direction": "30 ml Fresh lemon juice",
+                "quantity": "30",
+                "unit": "ml",
+                "ingredient": "Fresh lemon juice",
+                "ingredient_ko": "신선한 레몬 주스"
+            },
+            {
+                "direction": "Few Drops of Egg White",
+                "quantity": "few",
+                "unit": "drops",
+                "ingredient": "Egg White",
+                "ingredient_ko": "달걀 흰자"
+            },
+            {
+                "direction": "15 ml Red wine (Shiraz or Malbech)",
+                "quantity": "15",
+                "unit": "ml",
+                "ingredient": "Red wine",
+                "note": "Shiraz or Malbech",
+                "ingredient_ko": "적포도주"
+            }
+        ],
+        "name_ko": "",
+        "method_ko": "모든 재료를 셰이커에 붓습니다. 얼음을 넣고 세게 흔드세요. 얼음을 채운 차가운 락 글라스에 걸러냅니다. 그 위에 와인을 띄워주세요."
+    },
+    {
+        "category": "New Era Drinks",
+        "name": "Old Cuban",
+        "method": "Pour all ingredients into cocktail shaker except the wine, shake well with ice, strain into chilled elegant cocktail glass. Top up with the sparkling wine.",
+        "garnish": "Garnish with mint springs.",
+        "ingredients": [
+            {
+                "direction": "6/8 pcs Mint Leaves",
+                "quantity": "6-8",
+                "unit": "piece",
+                "ingredient": "Mint Leaves",
+                "ingredient_ko": "민트 잎"
+            },
+            {
+                "direction": "45 ml Aged Rum",
+                "quantity": "45",
+                "unit": "ml",
+                "ingredient": "Aged Rum",
+                "ingredient_ko": "숙성된 럼"
+            },
+            {
+                "direction": "22.5 ml Fresh Lime Juice",
+                "quantity": "22.5",
+                "unit": "ml",
+                "ingredient": "Fresh Lime Juice",
+                "ingredient_ko": "신선한 라임 주스"
+            },
+            {
+                "direction": "30 ml Simple Syrup",
+                "quantity": "30",
+                "unit": "ml",
+                "ingredient": "Simple Syrup",
+                "ingredient_ko": "슈가시럽"
+            },
+            {
+                "direction": "2 Dashes Angostura Bitters",
+                "quantity": "2",
+                "unit": "dash",
+                "ingredient": "Angostura Bitters",
+                "ingredient_ko": "앙고스투라 비터스"
+            },
+            {
+                "direction": "60 ml Brut Champagne or Prosecco",
+                "quantity": "60",
+                "unit": "ml",
+                "ingredient": "Brut Champagne or Prosecco",
+                "ingredient_ko": "브뤼 샴페인 또는 프로세코"
+            }
+        ],
+        "name_ko": "",
+        "method_ko": "와인을 제외한 모든 재료를 칵테일 셰이커에 붓고 얼음과 함께 잘 흔든 후 차갑고 우아한 칵테일 글라스에 따라냅니다. 스파클링 와인을 채워보세요."
+    },
+    {
+        "category": "New Era Drinks",
+        "name": "Paloma",
+        "method": "Poor the tequila into a highball glass, squeeze the lime juice. Add ice and salt, fill up pink grapefruit soda. Stir gently.",
+        "garnish": "Garnish with a slice of lime.",
+        "ingredients": [
+            {
+                "direction": "50 ml 100% Agave Tequila",
+                "quantity": "50",
+                "unit": "ml",
+                "ingredient": "100% Agave Tequila",
+                "ingredient_ko": "100% 아가베 데킬라"
+            },
+            {
+                "direction": "5 ml Fresh lime",
+                "quantity": "5",
+                "unit": "ml",
+                "ingredient": "Fresh lime",
+                "ingredient_ko": "신선한 라임"
+            },
+            {
+                "direction": "A pinch of Salt",
+                "quantity": "1",
+                "unit": "pinch",
+                "ingredient": "Salt",
+                "ingredient_ko": "소금"
+            },
+            {
+                "direction": "100 ml Pink Grapefruit Soda",
+                "quantity": "100",
+                "unit": "ml",
+                "ingredient": "Pink Grapefruit Soda",
+                "ingredient_ko": "핑크 자몽 소다"
+            }
+        ],
+        "name_ko": "",
+        "method_ko": "하이볼 글라스에 데킬라를 붓고 라임즙을 짜냅니다. 얼음과 소금을 넣고 핑크 자몽 소다를 채워주세요. 부드럽게 저어주세요."
+    },
+    {
+        "category": "New Era Drinks",
+        "name": "Paper Plane",
+        "method": "Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
+        "ingredients": [
+            {
+                "direction": "30 ml Bourbon Whiskey",
+                "quantity": "30",
+                "unit": "ml",
+                "ingredient": "Bourbon Whiskey",
+                "ingredient_ko": "버번 위스키"
+            },
+            {
+                "direction": "30 ml Amaro Nonino",
+                "quantity": "30",
+                "unit": "ml",
+                "ingredient": "Amaro Nonino",
+                "ingredient_ko": "아마로 노니노"
+            },
+            {
+                "direction": "30 ml Aperol",
+                "quantity": "30",
+                "unit": "ml",
+                "ingredient": "Aperol",
+                "ingredient_ko": "아페롤"
+            },
+            {
+                "direction": "30 ml Fresh Lemon Juice",
+                "quantity": "30",
+                "unit": "ml",
+                "ingredient": "Fresh Lemon Juice",
+                "ingredient_ko": "신선한 레몬 주스"
+            }
+        ],
+        "name_ko": "",
+        "method_ko": "모든 재료를 칵테일 셰이커에 붓고 얼음과 함께 잘 흔든 후 차가운 칵테일 글라스에 따라냅니다."
+    },
+    {
+        "category": "New Era Drinks",
+        "name": "Penicillin",
+        "method": "Muddle fresh ginger in a shaker and add the remaining ingredients, except for the Islay single malt whiskey. Fill the shaker with ice and shake. Double-strain into a chilled old fashioned glass with ice. Float the single malt whisky on top.",
+        "garnish": "Garnish with candied ginger.",
+        "ingredients": [
+            {
+                "direction": "60 ml Blended Scotch Whisky",
+                "quantity": "60",
+                "unit": "ml",
+                "ingredient": "Blended Scotch Whisky",
+                "ingredient_ko": "블렌디드 스카치 위스키"
+            },
+            {
+                "direction": "7.5 ml Lagavulin 16 y Whisky",
+                "quantity": "7.5",
+                "unit": "ml",
+                "ingredient": "Lagavulin 16 y Whisky",
+                "ingredient_ko": "라가불린 16y 위스키"
+            },
+            {
+                "direction": "22.5 ml Fresh Lemon Juice",
+                "quantity": "22.5",
+                "unit": "ml",
+                "ingredient": "Fresh Lemon Juice",
+                "ingredient_ko": "신선한 레몬 주스"
+            },
+            {
+                "direction": "22.5 ml Honey Syrup",
+                "quantity": "22.5",
+                "unit": "ml",
+                "ingredient": "Honey Syrup",
+                "ingredient_ko": "허니시럽"
+            },
+            {
+                "direction": "2-3 quarter size Sliced Fresh Ginger",
+                "quantity": "2-3",
+                "unit": "piece",
+                "ingredient": "quarter size Sliced Fresh Ginger",
+                "ingredient_ko": "1/4 크기 얇게 썬 신선한 생강"
+            }
+        ],
+        "name_ko": "",
+        "method_ko": "셰이커에 신선한 생강을 넣고 아일레이 싱글 몰트 위스키를 제외한 나머지 재료를 추가합니다. 셰이커에 얼음을 채우고 흔들어주세요. 얼음과 함께 차가운 구식 유리잔에 두 번 걸러냅니다. 그 위에 싱글몰트 위스키를 띄워주세요."
+    },
+    {
+        "category": "New Era Drinks",
+        "name": "Russian Spring Punch",
+        "method": "Pour all ingredients into a cocktail shaker except the sparkling wine, shake well with ice, strain into a chilled tall tumbler glass filled with ice, and top up with sparkling wine.",
+        "garnish": "Garnish with blackberries and optionally a lemon slice as well.",
+        "ingredients": [
+            {
+                "direction": "25 ml Vodka",
+                "quantity": "25",
+                "unit": "ml",
+                "ingredient": "Vodka",
+                "ingredient_ko": "보드카"
+            },
+            {
+                "direction": "25 ml Fresh Lemon Juice",
+                "quantity": "25",
+                "unit": "ml",
+                "ingredient": "Fresh Lemon Juice",
+                "ingredient_ko": "신선한 레몬 주스"
+            },
+            {
+                "direction": "15 ml Crème de Cassis",
+                "quantity": "15",
+                "unit": "ml",
+                "ingredient": "Crème de Cassis",
+                "ingredient_ko": "크렘 드 카시스"
+            },
+            {
+                "direction": "10 ml Sugar syrup",
+                "quantity": "10",
+                "unit": "ml",
+                "ingredient": "Sugar syrup",
+                "ingredient_ko": "설탕시럽"
+            },
+            {
+                "direction": "Top up Sparkling wine",
+                "quantity": "1",
+                "unit": "top up",
+                "ingredient": "Sparkling wine",
+                "ingredient_ko": "발포성 포도주"
+            }
+        ],
+        "name_ko": "",
+        "method_ko": "스파클링 와인을 제외한 모든 재료를 칵테일 셰이커에 붓고 얼음과 함께 잘 흔든 후 얼음을 채운 차가운 텀블러 글라스에 걸러내고 스파클링 와인을 채워줍니다."
+    },
+    {
+        "category": "New Era Drinks",
+        "name": "Southside",
+        "method": "Pour all ingredients into a cocktail shaker, shake well with ice, double-strain into chilled cocktail glass. Note: If egg white is used shake vigorously.",
+        "garnish": "Garnish with mint springs.",
+        "ingredients": [
+            {
+                "direction": "60 ml London Dry Gin",
+                "quantity": "60",
+                "unit": "ml",
+                "ingredient": "London Dry Gin",
+                "ingredient_ko": "런던 드라이 진"
+            },
+            {
+                "direction": "30 ml Fresh Lemon Juice",
+                "quantity": "30",
+                "unit": "ml",
+                "ingredient": "Fresh Lemon Juice",
+                "ingredient_ko": "신선한 레몬 주스"
+            },
+            {
+                "direction": "15 ml Simple Syrup",
+                "quantity": "15",
+                "unit": "ml",
+                "ingredient": "Simple Syrup",
+                "ingredient_ko": "슈가시럽"
+            },
+            {
+                "direction": "5/6 Mint Leaves",
+                "quantity": "5-6",
+                "unit": "piece",
+                "ingredient": "Mint Leaves",
+                "ingredient_ko": "민트 잎"
+            },
+            {
+                "direction": "Few Drops of Egg White (Optional)",
+                "quantity": "few",
+                "unit": "drops",
+                "ingredient": "Egg White",
+                "note": "Optional",
+                "ingredient_ko": "달걀 흰자"
+            }
+        ],
+        "name_ko": "",
+        "method_ko": "모든 재료를 칵테일 셰이커에 붓고 얼음과 함께 잘 흔든 후 차가운 칵테일 글라스에 두 번 걸러냅니다. 참고: 달걀 흰자를 사용하는 경우 세게 흔들어주세요."
+    },
+    {
+        "category": "New Era Drinks",
+        "name": "Spicy Fifty",
+        "method": "Pour all ingredients into a cocktail shaker, shake well with ice, double-strain into chilled cocktail glass.",
+        "garnish": "Garnish with a red chili pepper",
+        "ingredients": [
+            {
+                "direction": "50 ml Vodka Vanilla",
+                "quantity": "50",
+                "unit": "ml",
+                "ingredient": "Vodka Vanilla",
+                "ingredient_ko": "보드카 바닐라"
+            },
+            {
+                "direction": "15 ml Elderflower Cordial",
+                "quantity": "15",
+                "unit": "ml",
+                "ingredient": "Elderflower Cordial",
+                "ingredient_ko": "엘더플라워 코디얼"
+            },
+            {
+                "direction": "15 ml Fresh Lime Juice",
+                "quantity": "15",
+                "unit": "ml",
+                "ingredient": "Fresh Lime Juice",
+                "ingredient_ko": "신선한 라임 주스"
+            },
+            {
+                "direction": "10 ml Monin Honey Syrup",
+                "quantity": "10",
+                "unit": "ml",
+                "ingredient": "Monin Honey Syrup",
+                "ingredient_ko": "모닌 허니 시럽"
+            },
+            {
+                "direction": "2 thin Slices Red Chili Pepper",
+                "quantity": "2",
+                "unit": "piece",
+                "ingredient": "thin Slices Red Chili Pepper",
+                "ingredient_ko": "얇은 조각 붉은 고추"
+            }
+        ],
+        "name_ko": "",
+        "method_ko": "모든 재료를 칵테일 셰이커에 붓고 얼음과 함께 잘 흔든 후 차가운 칵테일 글라스에 두 번 걸러냅니다."
+    },
+    {
+        "category": "New Era Drinks",
+        "name": "Spritz",
+        "method": "Build all ingredients into a wine glass filled with ice. Stir gently. NOTE: There are other versions of the Spritz that use Campari, Cynar or Select instead of Aperol.",
+        "garnish": "Garnish with a slice of orange.",
+        "ingredients": [
+            {
+                "direction": "90 ml Prosecco",
+                "quantity": "90",
+                "unit": "ml",
+                "ingredient": "Prosecco",
+                "ingredient_ko": "프로세코"
+            },
+            {
+                "direction": "60 ml Aperol",
+                "quantity": "60",
+                "unit": "ml",
+                "ingredient": "Aperol",
+                "ingredient_ko": "아페롤"
+            },
+            {
+                "direction": "Splash of Soda water",
+                "quantity": "1",
+                "unit": "splash",
+                "ingredient": "Soda water",
+                "ingredient_ko": "소다수"
+            }
+        ],
+        "name_ko": "",
+        "method_ko": "얼음을 채운 와인잔에 모든 재료를 담으세요. 부드럽게 저어주세요. 참고: Aperol 대신 Campari, Cynar 또는 Select를 사용하는 다른 버전의 Spritz가 있습니다."
+    },
+    {
+        "category": "New Era Drinks",
+        "name": "Suffering Bastard",
+        "method": "Pour all ingredients into a cocktail shaker except the ginger beer, shake well with ice, Pour unstrained into a Collins glass or in the original S. Bastard mug and top up with ginger beer.",
+        "garnish": "Garnish with mint springs and optionally an orange slice as well.",
+        "ingredients": [
+            {
+                "direction": "30 ml Cognac or Brandy",
+                "quantity": "30",
+                "unit": "ml",
+                "ingredient": "Cognac or Brandy",
+                "ingredient_ko": "꼬냑이나 브랜디"
+            },
+            {
+                "direction": "30 ml Gin",
+                "quantity": "30",
+                "unit": "ml",
+                "ingredient": "Gin",
+                "ingredient_ko": "진"
+            },
+            {
+                "direction": "15 ml Fresh Lime Juice",
+                "quantity": "15",
+                "unit": "ml",
+                "ingredient": "Fresh Lime Juice",
+                "ingredient_ko": "신선한 라임 주스"
+            },
+            {
+                "direction": "2 Dashes Angostura Bitters",
+                "quantity": "2",
+                "unit": "dash",
+                "ingredient": "Angostura Bitters",
+                "ingredient_ko": "앙고스투라 비터스"
+            },
+            {
+                "direction": "Top up Ginger beer",
+                "quantity": "1",
+                "unit": "top up",
+                "ingredient": "Ginger beer",
+                "ingredient_ko": "생강 맥주"
+            }
+        ],
+        "name_ko": "",
+        "method_ko": "진저비어를 제외한 모든 재료를 칵테일 셰이커에 붓고 얼음과 함께 잘 흔든 후 콜린스 잔이나 오리지널 S. 바스타드 머그에 거르지 않고 붓고 진저비어를 가득 채웁니다."
+    },
+    {
+        "category": "New Era Drinks",
+        "name": "Tipperary",
+        "method": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into chilled martini cocktail glass.",
+        "garnish": "Garnish with a slice of orange.",
+        "ingredients": [
+            {
+                "direction": "50 ml Irish Whiskey",
+                "quantity": "50",
+                "unit": "ml",
+                "ingredient": "Irish Whiskey",
+                "ingredient_ko": "아이리쉬 위스키"
+            },
+            {
+                "direction": "25 ml Sweet Red Vermouth",
+                "quantity": "25",
+                "unit": "ml",
+                "ingredient": "Sweet Red Vermouth",
+                "ingredient_ko": "스위트 레드 버무스"
+            },
+            {
+                "direction": "15 ml Green Chartreuse",
+                "quantity": "15",
+                "unit": "ml",
+                "ingredient": "Green Chartreuse",
+                "ingredient_ko": "그린 샤르트뢰즈"
+            },
+            {
+                "direction": "2 Dashes Angostura Bitters",
+                "quantity": "2",
+                "unit": "dash",
+                "ingredient": "Angostura Bitters",
+                "ingredient_ko": "앙고스투라 비터스"
+            }
+        ],
+        "name_ko": "",
+        "method_ko": "모든 재료를 얼음이 담긴 믹싱 글라스에 붓습니다. 잘 저어주세요. 차가운 마티니 칵테일 글라스에 걸러냅니다."
+    },
+    {
+        "category": "New Era Drinks",
+        "name": "Tommy's Margarita",
+        "method": "Pour all ingredients into a cocktail shaker, shake well with ice, strain into a chilled rocks glass filled with ice.",
+        "garnish": "Garnish with a lime slice.",
+        "ingredients": [
+            {
+                "direction": "60 ml Tequila Agave 100% Reposado",
+                "quantity": "60",
+                "unit": "ml",
+                "ingredient": "Tequila Agave 100% Reposado",
+                "ingredient_ko": "데킬라 아가베 100% 레포사도"
+            },
+            {
+                "direction": "30 ml Fresh Lime Juice (Persiano)",
+                "quantity": "30",
+                "unit": "ml",
+                "ingredient": "Fresh Lime Juice",
+                "note": "Persiano",
+                "ingredient_ko": "신선한 라임 주스"
+            },
+            {
+                "direction": "30 ml Agave Syrup (1/2 Water + 1/2 Agave Nectar)",
+                "quantity": "30",
+                "unit": "ml",
+                "ingredient": "Agave Syrup",
+                "note": "1/2 Water + 1/2 Agave Nectar",
+                "ingredient_ko": "아가베 시럽"
+            }
+        ],
+        "name_ko": "",
+        "method_ko": "모든 재료를 칵테일 셰이커에 붓고 얼음과 함께 잘 흔든 다음 얼음을 채운 차가운 락 글라스에 걸러냅니다."
+    },
+    {
+        "category": "New Era Drinks",
+        "name": "Trinidad Sour",
+        "method": "Pour all ingredients into a cocktail shaker, shake well with ice, strain into a chilled cocktail glass.",
+        "ingredients": [
+            {
+                "direction": "45 ml Angostura Bitters",
+                "quantity": "45",
+                "unit": "ml",
+                "ingredient": "Angostura Bitters",
+                "ingredient_ko": "앙고스투라 비터스"
+            },
+            {
+                "direction": "30 ml Orgeat Syrup",
+                "quantity": "30",
+                "unit": "ml",
+                "ingredient": "Orgeat Syrup",
+                "ingredient_ko": "오르제 시럽"
+            },
+            {
+                "direction": "22.5 ml Fresh Lemon Juice",
+                "quantity": "22.5",
+                "unit": "ml",
+                "ingredient": "Fresh Lemon Juice",
+                "ingredient_ko": "신선한 레몬 주스"
+            },
+            {
+                "direction": "15 ml Rye Whisky",
+                "quantity": "15",
+                "unit": "ml",
+                "ingredient": "Rye Whisky",
+                "ingredient_ko": "라이 위스키"
+            }
+        ],
+        "name_ko": "",
+        "method_ko": "모든 재료를 칵테일 셰이커에 붓고 얼음과 함께 잘 흔든 다음 차가운 칵테일 잔에 따라냅니다."
+    },
+    {
+        "category": "New Era Drinks",
+        "name": "VE.N.TO",
+        "method": "Pour all ingredients into the shaker. Shake vigorously with ice. Strain into a chilled small tumbler glass filled with ice. Notes: If desired water can be replaced by chamomile infusion in the honey mix.",
+        "garnish": "Garnish with lemon zest and white grapes.",
+        "ingredients": [
+            {
+                "direction": "45 ml White Smooth Grappa",
+                "quantity": "45",
+                "unit": "ml",
+                "ingredient": "White Smooth Grappa",
+                "ingredient_ko": "화이트 스무스 그라파"
+            },
+            {
+                "direction": "22.5 ml Fresh lemon Juice",
+                "quantity": "22.5",
+                "unit": "ml",
+                "ingredient": "Fresh lemon Juice",
+                "ingredient_ko": "신선한 레몬 주스"
+            },
+            {
+                "direction": "15 ml Honey mix (replace water with chamomile)",
+                "quantity": "15",
+                "unit": "ml",
+                "ingredient": "Honey mix",
+                "note": "replace water with chamomile",
+                "ingredient_ko": "허니믹스"
+            },
+            {
+                "direction": "15 ml Chamomile cordial",
+                "quantity": "15",
+                "unit": "ml",
+                "ingredient": "Chamomile cordial",
+                "ingredient_ko": "카모마일 코디얼"
+            },
+            {
+                "direction": "10 ml Egg White (Optional)",
+                "quantity": "10",
+                "unit": "ml",
+                "ingredient": "Egg White",
+                "note": "Optional",
+                "ingredient_ko": "달걀 흰자"
+            }
+        ],
+        "name_ko": "",
+        "method_ko": "모든 재료를 셰이커에 붓습니다. 얼음을 넣고 세게 흔드세요. 얼음을 채운 차가운 작은 텀블러 잔에 걸러냅니다. 참고: 원하는 경우 물 대신 꿀 혼합물에 카모마일을 주입할 수 있습니다."
+    },
+    {
+        "category": "New Era Drinks",
+        "name": "Yellow Bird",
+        "method": "Pour all ingredients into a cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
+        "ingredients": [
+            {
+                "direction": "30 ml White rum",
+                "quantity": "30",
+                "unit": "ml",
+                "ingredient": "White rum",
+                "ingredient_ko": "화이트 럼"
+            },
+            {
+                "direction": "15 ml Galliano",
+                "quantity": "15",
+                "unit": "ml",
+                "ingredient": "Galliano",
+                "ingredient_ko": "갈리아노"
+            },
+            {
+                "direction": "15 ml Triple Sec",
+                "quantity": "15",
+                "unit": "ml",
+                "ingredient": "Triple Sec",
+                "ingredient_ko": "트리플 섹"
+            },
+            {
+                "direction": "15 ml Fresh Lime Juice",
+                "quantity": "15",
+                "unit": "ml",
+                "ingredient": "Fresh Lime Juice",
+                "ingredient_ko": "신선한 라임 주스"
+            }
+        ],
+        "name_ko": "",
+        "method_ko": "모든 재료를 칵테일 셰이커에 붓고 얼음과 함께 잘 흔든 후 차가운 칵테일 글라스에 따라냅니다."
+    },
+    {
+        "category": "The Unforgettables",
+        "name": "Alexander",
+        "method": "Pour all ingredients into cocktail shaker filled with ice cubes. Shake and strain into a chilled cocktail glass.",
+        "garnish": "Sprinkle fresh ground nutmeg on top.",
+        "ingredients": [
+            {
+                "direction": "30 ml Cognac",
+                "quantity": "30",
+                "unit": "ml",
+                "ingredient": "Cognac",
+                "ingredient_ko": "코냑"
+            },
+            {
+                "direction": "30 ml Crème de Cacao (Brown)",
+                "quantity": "30",
+                "unit": "ml",
+                "ingredient": "Crème de Cacao",
+                "note": "Brown",
+                "ingredient_ko": "크렘 드 카카오"
+            },
+            {
+                "direction": "30 ml Fresh Cream",
+                "quantity": "30",
+                "unit": "ml",
+                "ingredient": "Fresh Cream",
+                "ingredient_ko": "생크림"
+            }
+        ],
+        "name_ko": "",
+        "method_ko": "얼음을 채운 칵테일 셰이커에 모든 재료를 붓습니다. 흔들어서 차가운 칵테일 글라스에 따르세요."
+    },
+    {
+        "category": "The Unforgettables",
+        "name": "Americano",
+        "method": "Mix the ingredients directly in an old fashioned glass filled with ice cubes. Add a splash of Soda Water. Stir gently.",
+        "garnish": "Garnish with half orange slice and a lemon zest.",
+        "ingredients": [
+            {
+                "direction": "30 ml Bitter Campari",
+                "quantity": "30",
+                "unit": "ml",
+                "ingredient": "Bitter Campari",
+                "ingredient_ko": "비터 캄파리"
+            },
+            {
+                "direction": "30 ml Sweet Red Vermouth",
+                "quantity": "30",
+                "unit": "ml",
+                "ingredient": "Sweet Red Vermouth",
+                "ingredient_ko": "스위트 레드 버무스"
+            },
+            {
+                "direction": "A splash of Soda Water",
+                "quantity": "1",
+                "unit": "splash",
+                "ingredient": "Soda Water",
+                "ingredient_ko": "소다수"
+            }
+        ],
+        "name_ko": "",
+        "method_ko": "얼음을 채운 구식 유리에 재료를 직접 섞으세요. 소다수를 추가합니다. 부드럽게 저어주세요."
+    },
+    {
+        "category": "The Unforgettables",
+        "name": "Angel Face",
+        "method": "Pour all ingredients into cocktail shaker filled with ice cubes. Shake and strain into a chilled cocktail glass.",
+        "ingredients": [
+            {
+                "direction": "30 ml Gin",
+                "quantity": "30",
+                "unit": "ml",
+                "ingredient": "Gin",
+                "ingredient_ko": "진"
+            },
+            {
+                "direction": "30 ml Apricot Brandy",
+                "quantity": "30",
+                "unit": "ml",
+                "ingredient": "Apricot Brandy",
+                "ingredient_ko": "살구 브랜디"
+            },
+            {
+                "direction": "30 ml Calvados",
+                "quantity": "30",
+                "unit": "ml",
+                "ingredient": "Calvados",
+                "ingredient_ko": "칼바도스"
+            }
+        ],
+        "name_ko": "",
+        "method_ko": "얼음을 채운 칵테일 셰이커에 모든 재료를 붓습니다. 흔들어서 차가운 칵테일 글라스에 따르세요."
+    },
+    {
+        "category": "The Unforgettables",
+        "name": "Aviation",
+        "method": "Add all ingredients into a cocktail shaker. Shake with cracked ice and strain into a chilled cocktail glass.",
+        "garnish": "Optional Maraschino Cherry.",
+        "ingredients": [
+            {
+                "direction": "45 ml Gin",
+                "quantity": "45",
+                "unit": "ml",
+                "ingredient": "Gin",
+                "ingredient_ko": "진"
+            },
+            {
+                "direction": "15 ml Maraschino Luxardo",
+                "quantity": "15",
+                "unit": "ml",
+                "ingredient": "Maraschino Luxardo",
+                "ingredient_ko": "마라스키노 룩사르도"
+            },
+            {
+                "direction": "15 ml Fresh Lemon Juice",
+                "quantity": "15",
+                "unit": "ml",
+                "ingredient": "Fresh Lemon Juice",
+                "ingredient_ko": "신선한 레몬 주스"
+            },
+            {
+                "direction": "1 Bar Spoon Crème de Violette",
+                "quantity": "1",
+                "unit": "bar spoon",
+                "ingredient": "Crème de Violette",
+                "ingredient_ko": "크렘 드 비올레트"
+            }
+        ],
+        "name_ko": "",
+        "method_ko": "모든 재료를 칵테일 셰이커에 넣습니다. 깨진 얼음과 함께 흔들어 차가운 칵테일 글라스에 따라냅니다."
+    },
+    {
+        "category": "The Unforgettables",
+        "name": "Between the Sheets",
+        "method": "Add all ingredients into a cocktail shaker. Shake with ice and strain into a chilled cocktail glass.",
+        "ingredients": [
+            {
+                "direction": "30 ml White Rum",
+                "quantity": "30",
+                "unit": "ml",
+                "ingredient": "White Rum",
+                "ingredient_ko": "화이트 럼"
+            },
+            {
+                "direction": "30 ml Cognac",
+                "quantity": "30",
+                "unit": "ml",
+                "ingredient": "Cognac",
+                "ingredient_ko": "코냑"
+            },
+            {
+                "direction": "30 ml Triple Sec",
+                "quantity": "30",
+                "unit": "ml",
+                "ingredient": "Triple Sec",
+                "ingredient_ko": "트리플 섹"
+            },
+            {
+                "direction": "20 ml Fresh Lemon Juice",
+                "quantity": "20",
+                "unit": "ml",
+                "ingredient": "Fresh Lemon Juice",
+                "ingredient_ko": "신선한 레몬 주스"
+            }
+        ],
+        "name_ko": "",
+        "method_ko": "모든 재료를 칵테일 셰이커에 넣습니다. 얼음과 함께 흔들어 차가운 칵테일 글라스에 따른다."
+    },
+    {
+        "category": "The Unforgettables",
+        "name": "Boulevardier",
+        "method": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into a chilled cocktail glass.",
+        "garnish": "Garnish with orange zest, optionally a lemon zest.",
+        "ingredients": [
+            {
+                "direction": "45 ml Bourbon or Rye Whiskey",
+                "quantity": "45",
+                "unit": "ml",
+                "ingredient": "Bourbon or Rye Whiskey",
+                "ingredient_ko": "버번 또는 라이 위스키"
+            },
+            {
+                "direction": "30 ml Bitter Campari",
+                "quantity": "30",
+                "unit": "ml",
+                "ingredient": "Bitter Campari",
+                "ingredient_ko": "비터 캄파리"
+            },
+            {
+                "direction": "30 ml Sweet Red Vermouth",
+                "quantity": "30",
+                "unit": "ml",
+                "ingredient": "Sweet Red Vermouth",
+                "ingredient_ko": "스위트 레드 버무스"
+            }
+        ],
+        "name_ko": "",
+        "method_ko": "모든 재료를 얼음이 담긴 믹싱 글라스에 붓습니다. 잘 저어주세요. 차가운 칵테일 글라스에 따라줍니다."
+    },
+    {
+        "category": "The Unforgettables",
+        "name": "Brandy Crusta",
+        "method": "Mix together all ingredients with ice cubes in a mixing glass and strain into prepared slim cocktail glass.",
+        "garnish": "Rub a slice of orange (or lemon) around the rim of the glass and dip it in pulverized white sugar, so that the sugar will adhere to the edge of the glass. Carefully curling place the orange/lemon peel around the inside of the glass.",
+        "ingredients": [
+            {
+                "direction": "52.5 ml Brandy",
+                "quantity": "52.5",
+                "unit": "ml",
+                "ingredient": "Brandy",
+                "ingredient_ko": "브랜디"
+            },
+            {
+                "direction": "7.5 ml Maraschino Luxardo",
+                "quantity": "7.5",
+                "unit": "ml",
+                "ingredient": "Maraschino Luxardo",
+                "ingredient_ko": "마라스키노 룩사르도"
+            },
+            {
+                "direction": "1 Bar Spoon Curacao",
+                "quantity": "1",
+                "unit": "bar spoon",
+                "ingredient": "Curacao",
+                "ingredient_ko": "퀴라소"
+            },
+            {
+                "direction": "15 ml Fresh Lemon Juice",
+                "quantity": "15",
+                "unit": "ml",
+                "ingredient": "Fresh Lemon Juice",
+                "ingredient_ko": "신선한 레몬 주스"
+            },
+            {
+                "direction": "1 Bar Spoon Simple Syrup",
+                "quantity": "1",
+                "unit": "bar spoon",
+                "ingredient": "Simple Syrup",
+                "ingredient_ko": "슈가시럽"
+            },
+            {
+                "direction": "2 Dashes Aromatic Bitters",
+                "quantity": "2",
+                "unit": "dash",
+                "ingredient": "Aromatic Bitters",
+                "ingredient_ko": "아로마틱 비터스"
+            }
+        ],
+        "name_ko": "",
+        "method_ko": "모든 재료를 얼음 조각과 함께 믹싱 글라스에 넣고 섞어 준비된 슬림 칵테일 글라스에 걸러냅니다."
+    },
+    {
+        "category": "The Unforgettables",
+        "name": "Casino",
+        "method": "Pour all ingredients into cocktails shaker, shake well with ice, strain into chilled rocks glass with ice.",
+        "garnish": "Garnish with lemon zest and a maraschino cherry.",
+        "ingredients": [
+            {
+                "direction": "40 ml Old Tom Gin",
+                "quantity": "40",
+                "unit": "ml",
+                "ingredient": "Old Tom Gin",
+                "ingredient_ko": "올드 톰 진"
+            },
+            {
+                "direction": "10 ml Maraschino Luxardo",
+                "quantity": "10",
+                "unit": "ml",
+                "ingredient": "Maraschino Luxardo",
+                "ingredient_ko": "마라스키노 룩사르도"
+            },
+            {
+                "direction": "10 ml Fresh Lemon Juice",
+                "quantity": "10",
+                "unit": "ml",
+                "ingredient": "Fresh Lemon Juice",
+                "ingredient_ko": "신선한 레몬 주스"
+            },
+            {
+                "direction": "2 Dashes Orange Bitters",
+                "quantity": "2",
+                "unit": "dash",
+                "ingredient": "Orange Bitters",
+                "ingredient_ko": "오렌지 비터스"
+            }
+        ],
+        "name_ko": "",
+        "method_ko": "모든 재료를 칵테일 셰이커에 붓고 얼음과 함께 잘 흔든 다음 얼음과 함께 차가운 록 글라스에 걸러냅니다."
+    },
+    {
+        "category": "The Unforgettables",
+        "name": "Clover Club",
+        "method": "Pour all ingredients into cocktails shaker, shake well with ice, strain into chilled cocktail glass.",
+        "garnish": "Fresh raspberries.",
+        "ingredients": [
+            {
+                "direction": "45 ml Gin",
+                "quantity": "45",
+                "unit": "ml",
+                "ingredient": "Gin",
+                "ingredient_ko": "진"
+            },
+            {
+                "direction": "15 ml Raspberry Syrup",
+                "quantity": "15",
+                "unit": "ml",
+                "ingredient": "Raspberry Syrup",
+                "ingredient_ko": "라즈베리 시럽"
+            },
+            {
+                "direction": "15 ml Fresh Lemon Juice",
+                "quantity": "15",
+                "unit": "ml",
+                "ingredient": "Fresh Lemon Juice",
+                "ingredient_ko": "신선한 레몬 주스"
+            },
+            {
+                "direction": "Few Drops of Egg White",
+                "quantity": "few",
+                "unit": "drops",
+                "ingredient": "Egg White",
+                "ingredient_ko": "달걀 흰자"
+            }
+        ],
+        "name_ko": "",
+        "method_ko": "모든 재료를 칵테일 셰이커에 붓고 얼음과 함께 잘 흔든 다음 차가운 칵테일 잔에 따라냅니다."
+    },
+    {
+        "category": "The Unforgettables",
+        "name": "Daiquiri",
+        "method": "In a cocktail shaker add all ingredients. Stir well to dissolve the sugar. Add ice and shake. Strain into chilled cocktail glass.",
+        "ingredients": [
+            {
+                "direction": "60 ml White Cuban Ron",
+                "quantity": "60",
+                "unit": "ml",
+                "ingredient": "White Cuban Ron",
+                "ingredient_ko": "화이트 쿠바 론"
+            },
+            {
+                "direction": "20 ml Fresh Lime Juice",
+                "quantity": "20",
+                "unit": "ml",
+                "ingredient": "Fresh Lime Juice",
+                "ingredient_ko": "신선한 라임 주스"
+            },
+            {
+                "direction": "2 Bar Spoons Superfine Sugar",
+                "quantity": "2",
+                "unit": "bar spoon",
+                "ingredient": "Superfine Sugar",
+                "ingredient_ko": "최고급 설탕"
+            }
+        ],
+        "name_ko": "",
+        "method_ko": "칵테일 셰이커에 모든 재료를 넣습니다. 설탕이 녹도록 잘 저어주세요. 얼음을 넣고 흔들어주세요. 차가운 칵테일 글라스에 걸러냅니다."
+    },
+    {
+        "category": "The Unforgettables",
+        "name": "Dry Martini",
+        "method": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into chilled martini cocktail glass.",
+        "garnish": "Squeeze oil from lemon peel onto the drink, or garnish with green olives if requested.",
+        "ingredients": [
+            {
+                "direction": "60 ml Gin",
+                "quantity": "60",
+                "unit": "ml",
+                "ingredient": "Gin",
+                "ingredient_ko": "진"
+            },
+            {
+                "direction": "10 ml Dry Vermouth",
+                "quantity": "10",
+                "unit": "ml",
+                "ingredient": "Dry Vermouth",
+                "ingredient_ko": "드라이 버몬트"
+            }
+        ],
+        "name_ko": "",
+        "method_ko": "모든 재료를 얼음이 담긴 믹싱 글라스에 붓습니다. 잘 저어주세요. 차가운 마티니 칵테일 글라스에 걸러냅니다."
+    },
+    {
+        "category": "The Unforgettables",
+        "name": "Gin Fizz",
+        "method": "Shake all ingredients with ice except soda water. Pour into thin tall Tumbler glass , top with a splash soda water.  NOTE: Serve without ice.",
+        "garnish": "Garnish with a lemon slice, optional lemon zest.",
+        "ingredients": [
+            {
+                "direction": "45 ml Gin",
+                "quantity": "45",
+                "unit": "ml",
+                "ingredient": "Gin",
+                "ingredient_ko": "진"
+            },
+            {
+                "direction": "30 ml Fresh Lemon Juice",
+                "quantity": "30",
+                "unit": "ml",
+                "ingredient": "Fresh Lemon Juice",
+                "ingredient_ko": "신선한 레몬 주스"
+            },
+            {
+                "direction": "10 ml Simple Syrup",
+                "quantity": "10",
+                "unit": "ml",
+                "ingredient": "Simple Syrup",
+                "ingredient_ko": "슈가시럽"
+            },
+            {
+                "direction": "Splash of Soda Water",
+                "quantity": "1",
+                "unit": "splash",
+                "ingredient": "Soda Water",
+                "ingredient_ko": "소다수"
+            }
+        ],
+        "name_ko": "",
+        "method_ko": "소다수를 제외한 모든 재료를 얼음과 함께 흔들어주세요. 얇고 긴 텀블러 유리에 붓고 그 위에 소다수를 붓습니다.  참고: 얼음 없이 서빙하세요."
+    },
+    {
+        "category": "The Unforgettables",
+        "name": "Hanky Panky",
+        "method": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into chilled cocktail glass.",
+        "garnish": "Orange zest.",
+        "ingredients": [
+            {
+                "direction": "45 ml London Dry Gin",
+                "quantity": "45",
+                "unit": "ml",
+                "ingredient": "London Dry Gin",
+                "ingredient_ko": "런던 드라이 진"
+            },
+            {
+                "direction": "45 ml Sweet Red Vermouth",
+                "quantity": "45",
+                "unit": "ml",
+                "ingredient": "Sweet Red Vermouth",
+                "ingredient_ko": "스위트 레드 버무스"
+            },
+            {
+                "direction": "7.5 ml Fernet Branca",
+                "quantity": "7.5",
+                "unit": "ml",
+                "ingredient": "Fernet Branca",
+                "ingredient_ko": "페르넷 브랑카"
+            }
+        ],
+        "name_ko": "",
+        "method_ko": "모든 재료를 얼음이 담긴 믹싱 글라스에 붓습니다. 잘 저어주세요. 차가운 칵테일 글라스에 걸러냅니다."
+    },
+    {
+        "category": "The Unforgettables",
+        "name": "John Collins",
+        "method": "Pour all ingredients directly into a highball filled with ice. Stir gently. NOTE: Use ‘Old Tom' Gin for Tom Collins.",
+        "garnish": "Garnish with a lemon slice and maraschino cherry.",
+        "ingredients": [
+            {
+                "direction": "45 ml Gin",
+                "quantity": "45",
+                "unit": "ml",
+                "ingredient": "Gin",
+                "ingredient_ko": "진"
+            },
+            {
+                "direction": "30 ml Fresh Lemon Juice",
+                "quantity": "30",
+                "unit": "ml",
+                "ingredient": "Fresh Lemon Juice",
+                "ingredient_ko": "신선한 레몬 주스"
+            },
+            {
+                "direction": "15 ml Simple Syrup",
+                "quantity": "15",
+                "unit": "ml",
+                "ingredient": "Simple Syrup",
+                "ingredient_ko": "슈가시럽"
+            },
+            {
+                "direction": "60 ml Soda Water",
+                "quantity": "60",
+                "unit": "ml",
+                "ingredient": "Soda Water",
+                "ingredient_ko": "소다수"
+            }
+        ],
+        "name_ko": "",
+        "method_ko": "얼음을 채운 하이볼에 모든 재료를 직접 부어주세요. 부드럽게 저어주세요. 참고: Tom Collins에는 'Old Tom' 진을 사용하세요."
+    },
+    {
+        "category": "The Unforgettables",
+        "name": "Last word",
+        "method": "Add all ingredients into a cocktail shaker. Shake with ice and strain into a chilled cocktail glass.",
+        "ingredients": [
+            {
+                "direction": "22.5 ml Gin",
+                "quantity": "22.5",
+                "unit": "ml",
+                "ingredient": "Gin",
+                "ingredient_ko": "진"
+            },
+            {
+                "direction": "22.5 ml Green Chartreuse",
+                "quantity": "22.5",
+                "unit": "ml",
+                "ingredient": "Green Chartreuse",
+                "ingredient_ko": "그린 샤르트뢰즈"
+            },
+            {
+                "direction": "22.5 ml Maraschino Luxardo",
+                "quantity": "22.5",
+                "unit": "ml",
+                "ingredient": "Maraschino Luxardo",
+                "ingredient_ko": "마라스키노 룩사르도"
+            },
+            {
+                "direction": "22.5 ml Fresh Lime Juice",
+                "quantity": "22.5",
+                "unit": "ml",
+                "ingredient": "Fresh Lime Juice",
+                "ingredient_ko": "신선한 라임 주스"
+            }
+        ],
+        "name_ko": "",
+        "method_ko": "모든 재료를 칵테일 셰이커에 넣습니다. 얼음과 함께 흔들어 차가운 칵테일 글라스에 따른다."
+    },
+    {
+        "category": "The Unforgettables",
+        "name": "Manhattan",
+        "method": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into a chilled cocktail glass.",
+        "garnish": "Garnish with a cocktail cherry.",
+        "ingredients": [
+            {
+                "direction": "50 ml Rye Whiskey",
+                "quantity": "50",
+                "unit": "ml",
+                "ingredient": "Rye Whiskey",
+                "ingredient_ko": "라이 위스키"
+            },
+            {
+                "direction": "20 ml Sweet Red Vermouth",
+                "quantity": "20",
+                "unit": "ml",
+                "ingredient": "Sweet Red Vermouth",
+                "ingredient_ko": "스위트 레드 버무스"
+            },
+            {
+                "direction": "1 dash Angostura Bitters",
+                "quantity": "1",
+                "unit": "dash",
+                "ingredient": "Angostura Bitters",
+                "ingredient_ko": "앙고스투라 비터스"
+            }
+        ],
+        "name_ko": "",
+        "method_ko": "모든 재료를 얼음이 담긴 믹싱 글라스에 붓습니다. 잘 저어주세요. 차가운 칵테일 글라스에 걸러냅니다."
+    },
+    {
+        "category": "The Unforgettables",
+        "name": "Martinez",
+        "method": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into a chilled cocktail glass.",
+        "garnish": "Lemon zest.",
+        "ingredients": [
+            {
+                "direction": "45 ml London Dry Gin",
+                "quantity": "45",
+                "unit": "ml",
+                "ingredient": "London Dry Gin",
+                "ingredient_ko": "런던 드라이 진"
+            },
+            {
+                "direction": "45 ml Sweet Red Vermouth",
+                "quantity": "45",
+                "unit": "ml",
+                "ingredient": "Sweet Red Vermouth",
+                "ingredient_ko": "스위트 레드 버무스"
+            },
+            {
+                "direction": "1 Bar Spoon Maraschino Liqueur",
+                "quantity": "1",
+                "unit": "bar spoon",
+                "ingredient": "Maraschino Liqueur",
+                "ingredient_ko": "마라스키노 리큐어"
+            },
+            {
+                "direction": "2 Dashes Orange Bitters",
+                "quantity": "2",
+                "unit": "dash",
+                "ingredient": "Orange Bitters",
+                "ingredient_ko": "오렌지 비터스"
+            }
+        ],
+        "name_ko": "",
+        "method_ko": "모든 재료를 얼음이 담긴 믹싱 글라스에 붓습니다. 잘 저어주세요. 차가운 칵테일 글라스에 따라줍니다."
+    },
+    {
+        "category": "The Unforgettables",
+        "name": "Mary Pickford",
+        "method": "Pour all ingredients into a cocktail shaker, shake well with ice, strain into a chilled cocktail glass.",
+        "ingredients": [
+            {
+                "direction": "45 ml White Rum",
+                "quantity": "45",
+                "unit": "ml",
+                "ingredient": "White Rum",
+                "ingredient_ko": "화이트 럼"
+            },
+            {
+                "direction": "45 ml Fresh Pineapple Juice",
+                "quantity": "45",
+                "unit": "ml",
+                "ingredient": "Fresh Pineapple Juice",
+                "ingredient_ko": "신선한 파인애플 주스"
+            },
+            {
+                "direction": "7.5 ml Maraschino Luxardo",
+                "quantity": "7.5",
+                "unit": "ml",
+                "ingredient": "Maraschino Luxardo",
+                "ingredient_ko": "마라스키노 룩사르도"
+            },
+            {
+                "direction": "5 ml Grenadine Syrup",
+                "quantity": "5",
+                "unit": "ml",
+                "ingredient": "Grenadine Syrup",
+                "ingredient_ko": "석류 시럽"
+            }
+        ],
+        "name_ko": "",
+        "method_ko": "모든 재료를 칵테일 셰이커에 붓고 얼음과 함께 잘 흔든 다음 차가운 칵테일 글라스에 따라냅니다."
+    },
+    {
+        "category": "The Unforgettables",
+        "name": "Monkey Gland",
+        "method": "Pour all ingredients into a cocktail shaker, shake well with ice, strain into a chilled cocktail glass.",
+        "ingredients": [
+            {
+                "direction": "45 ml Dry Gin",
+                "quantity": "45",
+                "unit": "ml",
+                "ingredient": "Dry Gin",
+                "ingredient_ko": "드라이 진"
+            },
+            {
+                "direction": "45 ml Fresh Orange Juice",
+                "quantity": "45",
+                "unit": "ml",
+                "ingredient": "Fresh Orange Juice",
+                "ingredient_ko": "신선한 오렌지 주스"
+            },
+            {
+                "direction": "1 Table Spoon Absinthe",
+                "quantity": "1",
+                "unit": "tablespoon",
+                "ingredient": "Absinthe",
+                "ingredient_ko": "압생트"
+            },
+            {
+                "direction": "1 Table Spoon Grenadine Syrup",
+                "quantity": "1",
+                "unit": "tablespoon",
+                "ingredient": "Grenadine Syrup",
+                "ingredient_ko": "석류 시럽"
+            }
+        ],
+        "name_ko": "",
+        "method_ko": "모든 재료를 칵테일 셰이커에 붓고 얼음과 함께 잘 흔든 다음 차가운 칵테일 글라스에 따라냅니다."
+    },
+    {
+        "category": "The Unforgettables",
+        "name": "Negroni",
+        "method": "Pour all ingredients directly into a chilled old fashioned glass filled with ice, Stir gently.",
+        "garnish": "Garnish with a half orange slice.",
+        "ingredients": [
+            {
+                "direction": "30 ml Gin",
+                "quantity": "30",
+                "unit": "ml",
+                "ingredient": "Gin",
+                "ingredient_ko": "진"
+            },
+            {
+                "direction": "30 ml Bitter Campari",
+                "quantity": "30",
+                "unit": "ml",
+                "ingredient": "Bitter Campari",
+                "ingredient_ko": "비터 캄파리"
+            },
+            {
+                "direction": "30 ml Sweet Red Vermouth",
+                "quantity": "30",
+                "unit": "ml",
+                "ingredient": "Sweet Red Vermouth",
+                "ingredient_ko": "스위트 레드 버무스"
+            }
+        ],
+        "name_ko": "",
+        "method_ko": "얼음을 채운 차가운 구식 유리에 모든 재료를 직접 붓고 가볍게 저어줍니다."
+    },
+    {
+        "category": "The Unforgettables",
+        "name": "Old Fashioned",
+        "method": "Place sugar cube in old fashioned glass and saturate with bitter, add few dashes of plain water. Muddle until dissolved. Fill the glass with ice cubes and add whiskey. Stir gently.",
+        "garnish": "Garnish with an orange slice or zest, and a cocktail cherry.",
+        "ingredients": [
+            {
+                "direction": "45 ml Bourbon or Rye Whiskey",
+                "quantity": "45",
+                "unit": "ml",
+                "ingredient": "Bourbon or Rye Whiskey",
+                "ingredient_ko": "버번 또는 라이 위스키"
+            },
+            {
+                "direction": "1 Sugar Cube",
+                "quantity": "1",
+                "unit": "piece",
+                "ingredient": "Sugar Cube",
+                "ingredient_ko": "각설탕"
+            },
+            {
+                "direction": "Few Dashes Angostura Bitters",
+                "quantity": "few",
+                "unit": "dash",
+                "ingredient": "Angostura Bitters",
+                "ingredient_ko": "앙고스투라 비터스"
+            },
+            {
+                "direction": "Few Dashes Plain Water",
+                "quantity": "few",
+                "unit": "dash",
+                "ingredient": "Plain Water",
+                "ingredient_ko": "일반 물"
+            }
+        ],
+        "name_ko": "",
+        "method_ko": "구식 유리에 각설탕을 넣고 쓴맛으로 포화시킨 후 일반 물을 몇 대시 추가합니다. 녹을 때까지 섞으세요. 잔에 얼음을 채우고 위스키를 넣으세요. 부드럽게 저어주세요."
+    },
+    {
+        "category": "The Unforgettables",
+        "name": "Paradise",
+        "method": "Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
+        "ingredients": [
+            {
+                "direction": "30 ml Gin",
+                "quantity": "30",
+                "unit": "ml",
+                "ingredient": "Gin",
+                "ingredient_ko": "진"
+            },
+            {
+                "direction": "20 ml Apricot Brandy",
+                "quantity": "20",
+                "unit": "ml",
+                "ingredient": "Apricot Brandy",
+                "ingredient_ko": "살구 브랜디"
+            },
+            {
+                "direction": "15 ml Fresh Orange Juice",
+                "quantity": "15",
+                "unit": "ml",
+                "ingredient": "Fresh Orange Juice",
+                "ingredient_ko": "신선한 오렌지 주스"
+            }
+        ],
+        "name_ko": "",
+        "method_ko": "모든 재료를 칵테일 셰이커에 붓고 얼음과 함께 잘 흔든 후 차가운 칵테일 잔에 따라냅니다."
+    },
+    {
+        "category": "The Unforgettables",
+        "name": "Planter's Punch",
+        "method": "Pour all ingredients directly in a small tumbler or a typical terracotta glass. NOTE: Add dilution up to taste, it can be given by water, ice or fresh juices.",
+        "garnish": "Garnish with orange zest.",
+        "ingredients": [
+            {
+                "direction": "45 ml Jamaican Rum",
+                "quantity": "45",
+                "unit": "ml",
+                "ingredient": "Jamaican Rum",
+                "ingredient_ko": "자메이카 럼"
+            },
+            {
+                "direction": "15 ml Lime Juice",
+                "quantity": "15",
+                "unit": "ml",
+                "ingredient": "Lime Juice",
+                "ingredient_ko": "라임 주스"
+            },
+            {
+                "direction": "30 ml Sugar Cane Juice",
+                "quantity": "30",
+                "unit": "ml",
+                "ingredient": "Sugar Cane Juice",
+                "ingredient_ko": "사탕수수 주스"
+            }
+        ],
+        "name_ko": "",
+        "method_ko": "모든 재료를 작은 텀블러나 일반적인 테라코타 유리에 직접 붓습니다. 참고: 맛에 따라 희석하여 물, 얼음 또는 신선한 주스와 함께 제공할 수 있습니다."
+    },
+    {
+        "category": "The Unforgettables",
+        "name": "Porto Flip",
+        "method": "Pour all ingredients into a cocktail shaker, shake well with ice, strain into a chilled cocktail glass.",
+        "garnish": "Sprinkle with fresh ground nutmeg.",
+        "ingredients": [
+            {
+                "direction": "15 ml Brandy",
+                "quantity": "15",
+                "unit": "ml",
+                "ingredient": "Brandy",
+                "ingredient_ko": "브랜디"
+            },
+            {
+                "direction": "45 ml Red Tawny Port Wine",
+                "quantity": "45",
+                "unit": "ml",
+                "ingredient": "Red Tawny Port Wine",
+                "ingredient_ko": "레드 토니 포트 와인"
+            },
+            {
+                "direction": "10 ml Egg Yolk",
+                "quantity": "10",
+                "unit": "ml",
+                "ingredient": "Egg Yolk",
+                "ingredient_ko": "달걀 노른자"
+            }
+        ],
+        "name_ko": "",
+        "method_ko": "모든 재료를 칵테일 셰이커에 붓고 얼음과 함께 잘 흔든 다음 차가운 칵테일 글라스에 따라냅니다."
+    },
+    {
+        "category": "The Unforgettables",
+        "name": "Ramos Fizz",
+        "method": "Pour all ingredients except soda water in a cocktail shaker with ice, Shake for two minutes, double strain in a glass, pour the drink back in the shaker, and hard shake without ice for one minute. Strain into a highball glass, top up with soda. NOTE: The drink was invented by Henry Ramos in 1888, at his bar Meyer's Table d'Hôtel Internationale in New Orleans. The Ramos Fizz was originally shaken for 12 minutes by a crew of 30 bartenders who passed the shaker from one to another.",
+        "ingredients": [
+            {
+                "direction": "45 ml Gin",
+                "quantity": "45",
+                "unit": "ml",
+                "ingredient": "Gin",
+                "ingredient_ko": "진"
+            },
+            {
+                "direction": "15 ml Fresh Lime Juice",
+                "quantity": "15",
+                "unit": "ml",
+                "ingredient": "Fresh Lime Juice",
+                "ingredient_ko": "신선한 라임 주스"
+            },
+            {
+                "direction": "15 ml Fresh Lemon Juice",
+                "quantity": "15",
+                "unit": "ml",
+                "ingredient": "Fresh Lemon Juice",
+                "ingredient_ko": "신선한 레몬 주스"
+            },
+            {
+                "direction": "30 ml Sugar Syrup",
+                "quantity": "30",
+                "unit": "ml",
+                "ingredient": "Sugar Syrup",
+                "ingredient_ko": "설탕시럽"
+            },
+            {
+                "direction": "60 ml Cream",
+                "quantity": "60",
+                "unit": "ml",
+                "ingredient": "Cream",
+                "ingredient_ko": "크림"
+            },
+            {
+                "direction": "30 ml Egg white",
+                "quantity": "30",
+                "unit": "ml",
+                "ingredient": "Egg white",
+                "ingredient_ko": "달걀 흰자"
+            },
+            {
+                "direction": "3 Dashes Orange Flower Water",
+                "quantity": "3",
+                "unit": "dash",
+                "ingredient": "Orange Flower Water",
+                "ingredient_ko": "오렌지꽃수"
+            },
+            {
+                "direction": "2 Drops Vanilla Extract",
+                "quantity": "2",
+                "unit": "drops",
+                "ingredient": "Vanilla Extract",
+                "ingredient_ko": "바닐라 추출물"
+            },
+            {
+                "direction": "Soda Water",
+                "quantity": "1",
+                "unit": "top up",
+                "ingredient": "Soda Water",
+                "ingredient_ko": "소다수"
+            }
+        ],
+        "name_ko": "",
+        "method_ko": "얼음이 담긴 칵테일 쉐이커에 소다수를 제외한 모든 재료를 붓고 2분간 흔든 후 잔에 두 번 걸러낸 후 다시 쉐이커에 붓고 얼음 없이 1분간 세게 쉐이크합니다. 하이볼 글라스에 걸러내고 소다를 채워주세요. 참고: 이 음료는 1888년 Henry Ramos가 뉴올리언스에 있는 Meyer's Table d'Hôtel Internationale 바에서 발명했습니다. 라모스 피즈(Ramos Fizz)는 원래 30명의 바텐더로 구성된 승무원이 한 사람씩 셰이커를 전달하면서 12분 동안 흔들렸습니다."
+    },
+    {
+        "category": "The Unforgettables",
+        "name": "Rusty Nail",
+        "method": "Pour all ingredients directly into an old fashioned glass filled with ice. Stir gently.",
+        "garnish": "Garnish with lemon zest.",
+        "ingredients": [
+            {
+                "direction": "45 ml Scotch Whisky",
+                "quantity": "45",
+                "unit": "ml",
+                "ingredient": "Scotch Whisky",
+                "ingredient_ko": "스카치 위스키"
+            },
+            {
+                "direction": "25 ml Drambuie",
+                "quantity": "25",
+                "unit": "ml",
+                "ingredient": "Drambuie",
+                "ingredient_ko": "드람뷔에"
+            }
+        ],
+        "name_ko": "",
+        "method_ko": "얼음을 채운 구식 유리에 모든 재료를 직접 붓습니다. 부드럽게 저어주세요."
+    },
+    {
+        "category": "The Unforgettables",
+        "name": "Sazerac",
+        "method": "Rinse a chilled old-fashioned glass with the absinthe, add crushed ice and set it aside. Stir the remaining ingredients over ice in a mixing glass. Discard the ice and any excess absinthe from the prepared glass, strain the mixed drink into the glass.  NOTE: The original recipe changed after the American Civil War, Rye Whiskey substituted Cognac as it became hard to obtain.",
+        "garnish": "Garnish with lemon zest.",
+        "ingredients": [
+            {
+                "direction": "50 ml Cognac",
+                "quantity": "50",
+                "unit": "ml",
+                "ingredient": "Cognac",
+                "ingredient_ko": "코냑"
+            },
+            {
+                "direction": "10 ml Absinthe",
+                "quantity": "10",
+                "unit": "ml",
+                "ingredient": "Absinthe",
+                "ingredient_ko": "압생트"
+            },
+            {
+                "direction": "1 Sugar Cube",
+                "quantity": "1",
+                "unit": "piece",
+                "ingredient": "Sugar Cube",
+                "ingredient_ko": "각설탕"
+            },
+            {
+                "direction": "2 Dashes Peychaud's Bitters",
+                "quantity": "2",
+                "unit": "dash",
+                "ingredient": "Peychaud's Bitters",
+                "ingredient_ko": "페이쇼의 비터즈"
+            }
+        ],
+        "name_ko": "",
+        "method_ko": "식힌 구식 유리를 압생트로 헹구고 으깬 얼음을 추가하여 따로 보관해 두세요. 믹싱 글라스에 얼음을 넣고 남은 재료를 저어줍니다. 준비된 잔에 얼음과 남은 압생트를 버리고, 혼합 음료를 잔에 걸러냅니다.  참고: 원래 제조법은 미국 남북 전쟁 이후 변경되었으며, 구하기 어려워진 코냑을 라이 위스키로 대체했습니다."
+    },
+    {
+        "category": "The Unforgettables",
+        "name": "Sidecar",
+        "method": "Pour all ingredients into a cocktail shaker, shake well with ice, strain into a chilled cocktail glass.",
+        "ingredients": [
+            {
+                "direction": "50 ml Cognac",
+                "quantity": "50",
+                "unit": "ml",
+                "ingredient": "Cognac",
+                "ingredient_ko": "코냑"
+            },
+            {
+                "direction": "20 ml Triple Sec",
+                "quantity": "20",
+                "unit": "ml",
+                "ingredient": "Triple Sec",
+                "ingredient_ko": "트리플 섹"
+            },
+            {
+                "direction": "20 ml Fresh Lemon Juice",
+                "quantity": "20",
+                "unit": "ml",
+                "ingredient": "Fresh Lemon Juice",
+                "ingredient_ko": "신선한 레몬 주스"
+            }
+        ],
+        "name_ko": "",
+        "method_ko": "모든 재료를 칵테일 셰이커에 붓고 얼음과 함께 잘 흔든 다음 차가운 칵테일 글라스에 따라냅니다."
+    },
+    {
+        "category": "The Unforgettables",
+        "name": "Stinger",
+        "method": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into chilled martini cocktail glass.",
+        "garnish": "Optional mint leave.",
+        "ingredients": [
+            {
+                "direction": "50 ml Cognac",
+                "quantity": "50",
+                "unit": "ml",
+                "ingredient": "Cognac",
+                "ingredient_ko": "코냑"
+            },
+            {
+                "direction": "20 ml White Crème de Menthe",
+                "quantity": "20",
+                "unit": "ml",
+                "ingredient": "White Crème de Menthe",
+                "ingredient_ko": "화이트 크렘 드 망트"
+            }
+        ],
+        "name_ko": "",
+        "method_ko": "모든 재료를 얼음이 담긴 믹싱 글라스에 붓습니다. 잘 저어주세요. 차가운 마티니 칵테일 글라스에 걸러냅니다."
+    },
+    {
+        "category": "The Unforgettables",
+        "name": "Tuxedo",
+        "method": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into chilled martini cocktail glass.",
+        "garnish": "Garnish with cherry and lemon zest",
+        "ingredients": [
+            {
+                "direction": "30 ml Old Tom Gin",
+                "quantity": "30",
+                "unit": "ml",
+                "ingredient": "Old Tom Gin",
+                "ingredient_ko": "올드 톰 진"
+            },
+            {
+                "direction": "30 ml Dry Vermouth",
+                "quantity": "30",
+                "unit": "ml",
+                "ingredient": "Dry Vermouth",
+                "ingredient_ko": "드라이 버몬트"
+            },
+            {
+                "direction": "1/2 Bar Spoon Maraschino Luxardo",
+                "quantity": "1/2",
+                "unit": "bar spoon",
+                "ingredient": "Maraschino Luxardo",
+                "ingredient_ko": "마라스키노 룩사르도"
+            },
+            {
+                "direction": "1/4 Bar Spoon of Absinthe",
+                "quantity": "1/4",
+                "unit": "bar spoon",
+                "ingredient": "Absinthe",
+                "ingredient_ko": "압생트"
+            },
+            {
+                "direction": "3 Dashes Orange Bitters",
+                "quantity": "3",
+                "unit": "dash",
+                "ingredient": "Orange Bitters",
+                "ingredient_ko": "오렌지 비터스"
+            }
+        ],
+        "name_ko": "",
+        "method_ko": "모든 재료를 얼음이 담긴 믹싱 글라스에 붓습니다. 잘 저어주세요. 차가운 마티니 칵테일 글라스에 따라줍니다."
+    },
+    {
+        "category": "The Unforgettables",
+        "name": "Vieux Carrè",
+        "method": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into a chilled cocktail glass.",
+        "garnish": "Garnish with orange zest and maraschino cherry.",
+        "ingredients": [
+            {
+                "direction": "30 ml Rye Whiskey",
+                "quantity": "30",
+                "unit": "ml",
+                "ingredient": "Rye Whiskey",
+                "ingredient_ko": "라이 위스키"
+            },
+            {
+                "direction": "30 ml Cognac",
+                "quantity": "30",
+                "unit": "ml",
+                "ingredient": "Cognac",
+                "ingredient_ko": "코냑"
+            },
+            {
+                "direction": "30 ml Sweet Vermouth",
+                "quantity": "30",
+                "unit": "ml",
+                "ingredient": "Sweet Vermouth",
+                "ingredient_ko": "스위트 버무스"
+            },
+            {
+                "direction": "1 Bar Spoon Bénédictine",
+                "quantity": "1",
+                "unit": "bar spoon",
+                "ingredient": "Bénédictine",
+                "ingredient_ko": "베네딕토 회의"
+            },
+            {
+                "direction": "2 Dashes Peychaud's Bitters",
+                "quantity": "2",
+                "unit": "dash",
+                "ingredient": "Peychaud's Bitters",
+                "ingredient_ko": "페이쇼의 비터즈"
+            }
+        ],
+        "name_ko": "",
+        "method_ko": "모든 재료를 얼음이 담긴 믹싱 글라스에 붓습니다. 잘 저어주세요. 차가운 칵테일 글라스에 따라줍니다."
+    },
+    {
+        "category": "The Unforgettables",
+        "name": "Whiskey Sour",
+        "method": "Pour all ingredients into a cocktail shaker filled with ice. Shake well. Strain into cobbler glass. If served “On the rocks”, strain ingredients into an old fashioned glass filled with ice.  NOTE: If egg white is used shake little harder to release and incorporate the foam from the egg white.",
+        "garnish": "Garnish with a half orange slice and maraschino cherry, optionally use orange zest.",
+        "ingredients": [
+            {
+                "direction": "45 ml Bourbon Whiskey",
+                "quantity": "45",
+                "unit": "ml",
+                "ingredient": "Bourbon Whiskey",
+                "ingredient_ko": "버번 위스키"
+            },
+            {
+                "direction": "25 ml Fresh Lemon Juice",
+                "quantity": "25",
+                "unit": "ml",
+                "ingredient": "Fresh Lemon Juice",
+                "ingredient_ko": "신선한 레몬 주스"
+            },
+            {
+                "direction": "20 ml Sugar Syrup",
+                "quantity": "20",
+                "unit": "ml",
+                "ingredient": "Sugar Syrup",
+                "ingredient_ko": "설탕시럽"
+            },
+            {
+                "direction": "20 ml Egg White (Optional)",
+                "quantity": "20",
+                "unit": "ml",
+                "ingredient": "Egg White",
+                "note": "Optional",
+                "ingredient_ko": "달걀 흰자"
+            }
+        ],
+        "name_ko": "",
+        "method_ko": "얼음을 채운 칵테일 셰이커에 모든 재료를 붓습니다. 잘 흔들어주세요. 코블러 글래스에 걸러냅니다. \"온 더 락(On the Rocks)\"으로 제공되는 경우 얼음을 채운 구식 유리잔에 재료를 걸러냅니다.  참고: 달걀 흰자를 사용하는 경우 좀 더 세게 흔들어서 달걀 흰자의 거품을 제거하고 통합하세요."
+    },
+    {
+        "category": "The Unforgettables",
+        "name": "White Lady",
+        "method": "Pour all ingredients into a cocktail shaker, shake well with ice, strain into a chilled cocktail glass.",
+        "ingredients": [
+            {
+                "direction": "40 ml Gin",
+                "quantity": "40",
+                "unit": "ml",
+                "ingredient": "Gin",
+                "ingredient_ko": "진"
+            },
+            {
+                "direction": "30 ml Triple Sec",
+                "quantity": "30",
+                "unit": "ml",
+                "ingredient": "Triple Sec",
+                "ingredient_ko": "트리플 섹"
+            },
+            {
+                "direction": "20 ml Fresh Lemon Juice",
+                "quantity": "20",
+                "unit": "ml",
+                "ingredient": "Fresh Lemon Juice",
+                "ingredient_ko": "신선한 레몬 주스"
+            }
+        ],
+        "name_ko": "",
+        "method_ko": "모든 재료를 칵테일 셰이커에 붓고 얼음과 함께 잘 흔든 다음 차가운 칵테일 글라스에 따라냅니다."
+    }
+]

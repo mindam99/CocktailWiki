@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cocktail Archive</title>
+    <style>
+        body { font-family: 'Segoe UI', 'Malgun Gothic', sans-serif; background-color: #f8f9fa; margin: 0; padding: 20px; }
+        .header { display: flex; flex-direction: column; align-items: center; max-width: 1000px; margin: 0 auto 30px; gap: 15px; }
+
+        .controls { display: flex; justify-content: space-between; width: 100%; align-items: center; background: white; padding: 15px; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.05); }
+
+        /* 필터 셀렉트 박스 스타일 */
+        .filter-select { padding: 8px 12px; font-size: 1em; border: 1px solid #ddd; border-radius: 5px; outline: none; cursor: pointer; color: #2c3e50; }
+        .filter-select:focus { border-color: #e67e22; }
+
+        .lang-switch button { padding: 8px 16px; cursor: pointer; border: 1px solid #ddd; background: white; border-radius: 5px; margin-left: 5px; transition: 0.2s; }
+        .lang-switch button.active { background: #d35400; color: white; border-color: #d35400; font-weight: bold; }
+
+        .category-section { max-width: 1000px; margin: 0 auto 40px; }
+        .category-header { color: #2c3e50; border-bottom: 2px solid #e67e22; padding-bottom: 10px; margin-bottom: 20px; font-size: 1.5em; }
+
+        .gallery { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 20px; }
+        .card { background: white; border-radius: 12px; padding: 25px; text-align: center; box-shadow: 0 4px 10px rgba(0,0,0,0.05); cursor: pointer; transition: all 0.2s; border: 1px solid #eee; }
+        .card:hover { transform: translateY(-5px); box-shadow: 0 8px 15px rgba(0,0,0,0.1); border-color: #e67e22; }
+        .card h3 { margin: 0; color: #2c3e50; }
+
+        /* 검색 결과가 없을 때 */
+        .no-results { text-align: center; color: #7f8c8d; font-size: 1.2em; padding: 40px; grid-column: 1 / -1; }
+
+        .modal-overlay { display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.7); justify-content: center; align-items: center; z-index: 1000; }
+        .modal-content { background: white; padding: 35px; border-radius: 15px; max-width: 500px; width: 90%; position: relative; max-height: 85vh; overflow-y: auto; }
+        .close-btn { position: absolute; top: 20px; right: 25px; font-size: 28px; cursor: pointer; color: #999; }
+
+        .ingredient-list { background: #fffcf0; padding: 20px; border-radius: 10px; margin: 20px 0; border-left: 5px solid #e67e22; }
+        .ingredient-list ul { list-style: none; padding: 0; margin: 0; }
+        .ingredient-list li { margin-bottom: 12px; display: flex; align-items: center; line-height: 1.4; }
+        .qty-badge { background: #e67e22; color: white; padding: 3px 8px; border-radius: 4px; font-size: 0.85em; font-weight: bold; margin-right: 12px; min-width: 50px; text-align: center; }
+    </style>
+</head>
+<body>
+
+    <div class="header">
+        <h1 style="margin: 0;">🍸 Cocktail Archive</h1>
+
+        <div class="controls">
+            <div>
+                <label for="spiritFilter" style="font-weight: bold; color: #2c3e50; margin-right: 10px;">베이스 선택:</label>
+                <select id="spiritFilter" class="filter-select" onchange="setFilter(this.value)">
+                    <option value="all">모든 주류 (All)</option>
+                    <option value="whiskey">위스키 / 버번 (Whiskey)</option>
+                    <option value="gin">진 (Gin)</option>
+                    <option value="rum">럼 (Rum)</option>
+                    <option value="vodka">보드카 (Vodka)</option>
+                    <option value="tequila">데킬라 (Tequila)</option>
+                    <option value="cognac">코냑 / 브랜디 (Cognac)</option>
+                </select>
+            </div>
+
+            <div class="lang-switch">
+                <button id="btnKo" onclick="setLanguage('ko')" class="active">한국어</button>
+                <button id="btnEn" onclick="setLanguage('en')">English</button>
+            </div>
+        </div>
+    </div>
+
+    <div id="mainContainer"></div>
+
+    <div class="modal-overlay" id="modalOverlay">
+        <div class="modal-content">
+            <span class="close-btn" onclick="closeModal()">&times;</span>
+            <h2 id="modalTitle"></h2>
+            <div class="ingredient-list">
+                <ul id="modalIngredients"></ul>
+            </div>
+            <h3>Recipe</h3>
+            <p id="modalMethod" style="line-height: 1.7; color: #444;"></p>
+        </div>
+    </div>
+
+    <script>
+        let currentLang = 'ko';
+        let currentFilter = 'all'; // 현재 선택된 필터 상태
+        let cocktails = [];
+
+        const categoryNames = {
+            "The Unforgettables": "잊을 수 없는 명작 (The Unforgettables)",
+            "Contemporary Classics": "현대적인 클래식 (Contemporary Classics)",
+            "New Era Drinks": "새로운 시대의 칵테일 (New Era Drinks)"
+        };
+
+        fetch('iba_cocktails_translated.json')
+            .then(res => res.json())
+            .then(data => {
+                cocktails = data;
+                renderGallery();
+            })
+            .catch(err => console.error("데이터 로드 에러:", err));
+
+        function setLanguage(lang) {
+            currentLang = lang;
+            document.getElementById('btnKo').className = lang === 'ko' ? 'active' : '';
+            document.getElementById('btnEn').className = lang === 'en' ? 'active' : '';
+            renderGallery();
+        }
+
+        // 필터 변경 함수
+        function setFilter(spirit) {
+            currentFilter = spirit;
+            renderGallery();
+        }
+
+        function renderGallery() {
+            const container = document.getElementById('mainContainer');
+            container.innerHTML = '';
+
+            if (cocktails.length === 0) return;
+
+            // 1. 선택된 주류로 데이터 필터링
+            let filteredCocktails = cocktails.filter(c => {
+                if (currentFilter === 'all') return true;
+
+                // 칵테일의 재료 목록 중 하나라도 필터 키워드를 포함하고 있는지 확인
+                return c.ingredients && c.ingredients.some(i => {
+                    const ingName = (i.ingredient || i.special || '').toLowerCase();
+
+                    // whiskey를 선택했을 때 bourbon, rye 등도 함께 걸러지도록 처리
+                    if (currentFilter === 'whiskey') {
+                        return ingName.includes('whiskey') || ingName.includes('bourbon') || ingName.includes('rye');
+                    }
+                    if (currentFilter === 'cognac') {
+                        return ingName.includes('cognac') || ingName.includes('brandy');
+                    }
+
+                    return ingName.includes(currentFilter);
+                });
+            });
+
+            if (filteredCocktails.length === 0) {
+                container.innerHTML = `<div class="no-results">선택하신 주류가 들어간 칵테일이 없습니다. 🥺</div>`;
+                return;
+            }
+
+            // 2. 필터링된 데이터를 카테고리별로 그룹화
+            const groupedData = filteredCocktails.reduce((acc, c) => {
+                const cat = c.category || '기타 (Others)';
+                if (!acc[cat]) acc[cat] = [];
+                acc[cat].push(c);
+                return acc;
+            }, {});
+
+            // 3. 화면에 그리기
+            for (const [categoryName, items] of Object.entries(groupedData)) {
+                const section = document.createElement('div');
+                section.className = 'category-section';
+
+                const header = document.createElement('h2');
+                header.className = 'category-header';
+                header.innerText = currentLang === 'ko' ? (categoryNames[categoryName] || categoryName) : categoryName;
+                section.appendChild(header);
+
+                const gallery = document.createElement('div');
+                gallery.className = 'gallery';
+
+                items.forEach(c => {
+                    const card = document.createElement('div');
+                    card.className = 'card';
+
+                    const name = (currentLang === 'ko' && c.name_ko && c.name_ko.trim() !== "") ? c.name_ko : c.name;
+                    card.innerHTML = `<h3>${name}</h3>`;
+                    card.onclick = () => openModal(c);
+                    gallery.appendChild(card);
+                });
+
+                section.appendChild(gallery);
+                container.appendChild(section);
+            }
+        }
+
+        // (openModal, closeModal 함수는 이전과 완벽히 동일하여 생략 없이 유지)
+        function openModal(c) {
+            const title = (currentLang === 'ko' && c.name_ko && c.name_ko.trim() !== "") ? c.name_ko : c.name;
+            const method = (currentLang === 'ko' && c.method_ko && c.method_ko.trim() !== "") ? c.method_ko : (c.method || c.preparation);
+
+            document.getElementById('modalTitle').innerText = title;
+            document.getElementById('modalMethod').innerText = method || '제조법 정보가 없습니다.';
+
+            const ingList = document.getElementById('modalIngredients');
+            ingList.innerHTML = '';
+
+            if(c.ingredients) {
+                c.ingredients.forEach(i => {
+                    const li = document.createElement('li');
+
+                    const qtyText = (i.quantity || i.amount || '').toString();
+                    const unitText = i.unit || '';
+                    const fullQty = (qtyText + " " + unitText).trim();
+
+                    const badge = fullQty ? `<span class="qty-badge">${fullQty}</span>` : '';
+                    const ingName = (currentLang === 'ko' && i.ingredient_ko && i.ingredient_ko.trim() !== "") ? i.ingredient_ko : (i.ingredient || i.special || '');
+
+                    li.innerHTML = `${badge} <span>${ingName}</span>`;
+                    ingList.appendChild(li);
+                });
+            }
+
+            document.getElementById('modalOverlay').style.display = 'flex';
+        }
+
+        function closeModal() {
+            document.getElementById('modalOverlay').style.display = 'none';
+        }
+
+        window.onclick = (e) => {
+            if (e.target.className === 'modal-overlay') closeModal();
+        }
+    </script>
+</body>
+</html>
