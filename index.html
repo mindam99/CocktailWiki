@@ -5,19 +5,20 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Cocktail Archive</title>
     <style>
-        body { font-family: 'Segoe UI', 'Malgun Gothic', sans-serif; background-color: #f8f9fa; margin: 0; padding: 20px; }
-        .header { display: flex; flex-direction: column; align-items: center; max-width: 1000px; margin: 0 auto 30px; gap: 15px; }
+        body { font-family: 'Segoe UI', 'Malgun Gothic', sans-serif; background-color: #f8f9fa; margin: 0; padding: 20px; display: flex; flex-direction: column; min-height: 100vh; }
+        .header { display: flex; flex-direction: column; align-items: center; max-width: 1000px; margin: 0 auto 30px; gap: 15px; width: 100%; }
 
-        .controls { display: flex; justify-content: space-between; width: 100%; align-items: center; background: white; padding: 15px; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.05); }
+        .controls { display: flex; justify-content: space-between; width: 100%; align-items: center; background: white; padding: 15px; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.05); box-sizing: border-box; }
 
-        /* 필터 셀렉트 박스 스타일 */
         .filter-select { padding: 8px 12px; font-size: 1em; border: 1px solid #ddd; border-radius: 5px; outline: none; cursor: pointer; color: #2c3e50; }
         .filter-select:focus { border-color: #e67e22; }
 
         .lang-switch button { padding: 8px 16px; cursor: pointer; border: 1px solid #ddd; background: white; border-radius: 5px; margin-left: 5px; transition: 0.2s; }
         .lang-switch button.active { background: #d35400; color: white; border-color: #d35400; font-weight: bold; }
 
-        .category-section { max-width: 1000px; margin: 0 auto 40px; }
+        #mainContainer { flex: 1; width: 100%; max-width: 1000px; margin: 0 auto; }
+
+        .category-section { margin-bottom: 40px; }
         .category-header { color: #2c3e50; border-bottom: 2px solid #e67e22; padding-bottom: 10px; margin-bottom: 20px; font-size: 1.5em; }
 
         .gallery { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 20px; }
@@ -25,7 +26,6 @@
         .card:hover { transform: translateY(-5px); box-shadow: 0 8px 15px rgba(0,0,0,0.1); border-color: #e67e22; }
         .card h3 { margin: 0; color: #2c3e50; }
 
-        /* 검색 결과가 없을 때 */
         .no-results { text-align: center; color: #7f8c8d; font-size: 1.2em; padding: 40px; grid-column: 1 / -1; }
 
         .modal-overlay { display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.7); justify-content: center; align-items: center; z-index: 1000; }
@@ -36,6 +36,25 @@
         .ingredient-list ul { list-style: none; padding: 0; margin: 0; }
         .ingredient-list li { margin-bottom: 12px; display: flex; align-items: center; line-height: 1.4; }
         .qty-badge { background: #e67e22; color: white; padding: 3px 8px; border-radius: 4px; font-size: 0.85em; font-weight: bold; margin-right: 12px; min-width: 50px; text-align: center; }
+
+        /* 푸터(Footer) 스타일 추가 */
+        .site-footer {
+            max-width: 1000px;
+            width: 100%;
+            margin: 60px auto 10px; /* 위쪽 여백을 넉넉히 주어 본문과 분리 */
+            padding-top: 20px;
+            border-top: 1px solid black; /* 얇은 검은 선 */
+            text-align: center;
+            font-size: 0.9em;
+            color: #555;
+        }
+        .site-footer a {
+            color: #d35400;
+            text-decoration: none;
+        }
+        .site-footer a:hover {
+            text-decoration: underline;
+        }
     </style>
 </head>
 <body>
@@ -48,7 +67,7 @@
                 <label for="spiritFilter" style="font-weight: bold; color: #2c3e50; margin-right: 10px;">베이스 선택:</label>
                 <select id="spiritFilter" class="filter-select" onchange="setFilter(this.value)">
                     <option value="all">모든 주류 (All)</option>
-                    <option value="whiskey">위스키 / 버번 (Whiskey)</option>
+                    <option value="whiskey">위스키 (Whiskey)</option>
                     <option value="gin">진 (Gin)</option>
                     <option value="rum">럼 (Rum)</option>
                     <option value="vodka">보드카 (Vodka)</option>
@@ -66,6 +85,10 @@
 
     <div id="mainContainer"></div>
 
+    <footer class="site-footer">
+        Mingyu, Kang, 2026, according to <a href="https://iba-world.com/cocktails/all-cocktails/" target="_blank">https://iba-world.com/cocktails/all-cocktails/</a>
+    </footer>
+
     <div class="modal-overlay" id="modalOverlay">
         <div class="modal-content">
             <span class="close-btn" onclick="closeModal()">&times;</span>
@@ -73,21 +96,19 @@
             <div class="ingredient-list">
                 <ul id="modalIngredients"></ul>
             </div>
-            <h3>Recipe</h3>
-            <p id="modalMethod" style="line-height: 1.7; color: #444;"></p>
+            <h3 id="modalRecipeLabel">Recipe</h3>
+            <p id="modalMethod" style="line-height: 1.7; color: #444; white-space: pre-line;"></p>
+            <div id="modalGarnishSection" style="display:none;">
+                <h3 id="modalGarnishLabel">Garnish</h3>
+                <p id="modalGarnish" style="line-height: 1.7; color: #444;"></p>
+            </div>
         </div>
     </div>
 
     <script>
         let currentLang = 'ko';
-        let currentFilter = 'all'; // 현재 선택된 필터 상태
+        let currentFilter = 'all';
         let cocktails = [];
-
-        const categoryNames = {
-            "The Unforgettables": "잊을 수 없는 명작 (The Unforgettables)",
-            "Contemporary Classics": "현대적인 클래식 (Contemporary Classics)",
-            "New Era Drinks": "새로운 시대의 칵테일 (New Era Drinks)"
-        };
 
         fetch('iba_cocktails_translated.json')
             .then(res => res.json())
@@ -104,7 +125,6 @@
             renderGallery();
         }
 
-        // 필터 변경 함수
         function setFilter(spirit) {
             currentFilter = spirit;
             renderGallery();
@@ -116,15 +136,12 @@
 
             if (cocktails.length === 0) return;
 
-            // 1. 선택된 주류로 데이터 필터링
             let filteredCocktails = cocktails.filter(c => {
                 if (currentFilter === 'all') return true;
 
-                // 칵테일의 재료 목록 중 하나라도 필터 키워드를 포함하고 있는지 확인
                 return c.ingredients && c.ingredients.some(i => {
                     const ingName = (i.ingredient || i.special || '').toLowerCase();
 
-                    // whiskey를 선택했을 때 bourbon, rye 등도 함께 걸러지도록 처리
                     if (currentFilter === 'whiskey') {
                         return ingName.includes('whiskey') || ingName.includes('bourbon') || ingName.includes('rye');
                     }
@@ -141,22 +158,27 @@
                 return;
             }
 
-            // 2. 필터링된 데이터를 카테고리별로 그룹화
+            // 언어에 따라 정렬: 영어=ABC순, 한국어=가나다순
+            const getName = (c) => {
+                if (currentLang === 'ko' && c.name_ko && c.name_ko.trim() !== "") return c.name_ko;
+                return c.name;
+            };
+            filteredCocktails.sort((a, b) => getName(a).localeCompare(getName(b), currentLang === 'ko' ? 'ko' : 'en'));
+
             const groupedData = filteredCocktails.reduce((acc, c) => {
-                const cat = c.category || '기타 (Others)';
+                const cat = c.category || 'Others';
                 if (!acc[cat]) acc[cat] = [];
                 acc[cat].push(c);
                 return acc;
             }, {});
 
-            // 3. 화면에 그리기
             for (const [categoryName, items] of Object.entries(groupedData)) {
                 const section = document.createElement('div');
                 section.className = 'category-section';
 
                 const header = document.createElement('h2');
                 header.className = 'category-header';
-                header.innerText = currentLang === 'ko' ? (categoryNames[categoryName] || categoryName) : categoryName;
+                header.innerText = categoryName;
                 section.appendChild(header);
 
                 const gallery = document.createElement('div');
@@ -166,7 +188,7 @@
                     const card = document.createElement('div');
                     card.className = 'card';
 
-                    const name = (currentLang === 'ko' && c.name_ko && c.name_ko.trim() !== "") ? c.name_ko : c.name;
+                    const name = getName(c);
                     card.innerHTML = `<h3>${name}</h3>`;
                     card.onclick = () => openModal(c);
                     gallery.appendChild(card);
@@ -177,13 +199,24 @@
             }
         }
 
-        // (openModal, closeModal 함수는 이전과 완벽히 동일하여 생략 없이 유지)
         function openModal(c) {
             const title = (currentLang === 'ko' && c.name_ko && c.name_ko.trim() !== "") ? c.name_ko : c.name;
             const method = (currentLang === 'ko' && c.method_ko && c.method_ko.trim() !== "") ? c.method_ko : (c.method || c.preparation);
 
             document.getElementById('modalTitle').innerText = title;
+            document.getElementById('modalRecipeLabel').innerText = (currentLang === 'ko') ? '레시피' : 'Recipe';
             document.getElementById('modalMethod').innerText = method || '제조법 정보가 없습니다.';
+
+            // Garnish
+            const garnish = (currentLang === 'ko' && c.garnish_ko && c.garnish_ko.trim() !== "") ? c.garnish_ko : (c.garnish || '');
+            const garnishSection = document.getElementById('modalGarnishSection');
+            if (garnish && garnish.trim() !== '') {
+                document.getElementById('modalGarnishLabel').innerText = (currentLang === 'ko') ? '가니시' : 'Garnish';
+                document.getElementById('modalGarnish').innerText = garnish;
+                garnishSection.style.display = 'block';
+            } else {
+                garnishSection.style.display = 'none';
+            }
 
             const ingList = document.getElementById('modalIngredients');
             ingList.innerHTML = '';
